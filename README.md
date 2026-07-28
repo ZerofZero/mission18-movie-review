@@ -9,10 +9,14 @@ AI 부트캠프 스프린트 미션 18 과제로 제작했습니다.
 
 | 구분 | 주소 |
 |---|---|
-| 프론트엔드 | 배포 후 기재 |
+| 프론트엔드 | https://mission18-movie-review.streamlit.app |
 | 백엔드 API | https://movie-review-api-256118486084.asia-northeast3.run.app |
 | API 문서 | https://movie-review-api-256118486084.asia-northeast3.run.app/docs |
 | 컨테이너 이미지 | https://hub.docker.com/r/wldn2386/movie-review-api |
+
+프론트엔드는 Streamlit Community Cloud, 백엔드는 Google Cloud Run 에 배포되어 있습니다.
+백엔드는 일정 시간 요청이 없으면 대기 상태로 전환되므로, 첫 접속 시 컨테이너 기동과
+모델 적재로 20초 내외가 소요될 수 있습니다.
 
 ## 기술 스택
 
@@ -189,12 +193,27 @@ Cloud Run 의 파일 시스템은 유지되지 않으므로 컨테이너가 다�
 
 ### 프론트엔드
 
-Streamlit Community Cloud 에 배포했습니다. 진입점은 `frontend/app.py` 입니다.
-백엔드 주소는 Secrets 에 등록합니다.
+Streamlit Community Cloud 에 배포했습니다.
+
+| 항목 | 값 |
+|---|---|
+| 저장소 | `ZerofZero/mission18-movie-review` |
+| 브랜치 | `main` |
+| 진입점 | `frontend/app.py` |
+| Python | 3.12 |
+
+의존성은 `frontend/requirements.txt` 가 사용됩니다.
+Community Cloud 는 진입점 파일이 있는 디렉터리를 먼저 확인한 뒤 저장소 최상위를 확인하며,
+진입점 디렉터리의 파일이 우선합니다.
+
+백엔드 주소는 저장소에 두지 않고 Secrets 에 등록합니다.
 
 ```toml
 BACKEND_URL = "https://movie-review-api-256118486084.asia-northeast3.run.app"
 ```
+
+`frontend/config.py` 는 Streamlit secrets, 환경 변수, 기본값 순으로 주소를 찾으므로
+배포 환경에서 코드를 수정할 필요가 없습니다.
 
 ## 데이터 출처
 
