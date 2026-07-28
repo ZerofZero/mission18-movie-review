@@ -1,0 +1,332 @@
+[
+  {
+    "tmdb_id": 496243,
+    "title": "기생충",
+    "reviews": [
+      {
+        "author_name": "시네필준",
+        "content": "계단과 반지하라는 공간 배치만으로 계급 구조를 보여주는 연출이 탁월했습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "팝콘한통",
+        "content": "두 가족의 대비를 그려내는 배우들의 연기가 긴장감을 끝까지 유지시킵니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "영화보는사람",
+        "content": "전반부의 유쾌한 리듬이 후반부에 완전히 뒤집히는 구성이 인상적이었습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "조용한관객",
+        "content": "각본이 촘촘해서 두 번째 볼 때 더 많은 것이 보이는 작품입니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "극장앞고양이",
+        "content": "미술과 촬영이 훌륭하고 음악도 장면을 아주 잘 받쳐줍니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "필름누아르",
+        "content": "칸 황금종려상이 아깝지 않은 완성도라고 생각합니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "새벽영화관",
+        "content": "웃다가 어느 순간 서늘해지는 경험이 정말 좋았습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "상영관2열",
+        "content": "결말의 여운이 오래 남아서 한동안 다른 영화가 눈에 들어오지 않았습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "리뷰쓰는수달",
+        "content": "잘 만든 것은 알겠는데 제 취향과는 조금 거리가 있었습니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "냉정한관람객",
+        "content": "기대가 너무 컸는지 무난하다는 느낌 정도였습니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "주말영화팬",
+        "content": "연출은 괜찮았지만 특별히 새롭다는 생각은 들지 않았습니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "까칠한관객",
+        "content": "후반부 폭력 묘사가 과해서 보는 내내 불편했습니다.",
+        "expected": "부정"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 157336,
+    "title": "인터스텔라",
+    "reviews": [
+      {
+        "author_name": "팝콘한통",
+        "content": "우주 공간의 압도적인 규모를 극장에서 본 경험이 잊히지 않습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "무비러버",
+        "content": "음악이 장면의 감정을 완벽하게 끌어올려 주었습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "영화보는사람",
+        "content": "과학적 설정과 가족 이야기를 함께 담아낸 균형이 훌륭합니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "시네필준",
+        "content": "물의 행성 장면은 지금 다시 봐도 손에 땀이 납니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "조용한관객",
+        "content": "시간이 다르게 흐른다는 설정을 감정적으로 풀어낸 점이 좋았습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "극장앞고양이",
+        "content": "영상미와 음향만으로도 충분히 값어치를 하는 작품입니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "새벽영화관",
+        "content": "마지막 재회 장면에서는 눈물을 참기가 어려웠습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "상영관2열",
+        "content": "설정이 어려워서 이해하는 데 시간이 걸렸지만 볼만은 했습니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "리뷰쓰는수달",
+        "content": "러닝타임이 길어서 중간에 집중이 조금 흐트러졌습니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "주말영화팬",
+        "content": "취향을 타는 작품 같습니다. 저에게는 그럭저럭이었습니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "냉정한관람객",
+        "content": "대사로 설명하는 부분이 너무 많아서 몰입이 자주 끊겼습니다.",
+        "expected": "부정"
+      },
+      {
+        "author_name": "까칠한관객",
+        "content": "후반부 전개가 억지스럽게 느껴져서 실망했습니다.",
+        "expected": "부정"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 313369,
+    "title": "라라랜드",
+    "reviews": [
+      {
+        "author_name": "무비러버",
+        "content": "오프닝 고속도로 장면부터 완전히 사로잡혔습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "새벽영화관",
+        "content": "색채 사용이 아름다워서 화면을 보는 것만으로도 즐거웠습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "극장앞고양이",
+        "content": "음악이 좋아서 사운드트랙을 지금도 계속 듣고 있습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "시네필준",
+        "content": "꿈과 현실 사이의 선택을 담담하게 그려낸 점이 좋았습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "팝콘한통",
+        "content": "마지막 상상 장면의 연출이 오래 기억에 남습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "조용한관객",
+        "content": "두 배우의 호흡이 자연스러워서 보는 내내 편안했습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "영화보는사람",
+        "content": "뮤지컬 장르를 좋아하지 않아서인지 평범하게 느껴졌습니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "상영관2열",
+        "content": "화면은 예쁜데 이야기 자체는 특별할 것이 없었습니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "주말영화팬",
+        "content": "노래는 좋았지만 중반부는 조금 늘어진다는 인상을 받았습니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "리뷰쓰는수달",
+        "content": "결말이 너무 허무해서 보고 나서 기분이 가라앉았습니다.",
+        "expected": "부정"
+      },
+      {
+        "author_name": "냉정한관람객",
+        "content": "주인공들의 감정선에 전혀 공감이 되지 않아 지루했습니다.",
+        "expected": "부정"
+      },
+      {
+        "author_name": "까칠한관객",
+        "content": "과대평가된 작품이라고 생각합니다. 기대에 한참 미치지 못했습니다.",
+        "expected": "부정"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 396535,
+    "title": "부산행",
+    "reviews": [
+      {
+        "author_name": "영화보는사람",
+        "content": "기차라는 좁은 공간을 활용한 액션이 긴장감 넘쳤습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "시네필준",
+        "content": "속도감이 좋아서 러닝타임이 금방 지나갔습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "상영관2열",
+        "content": "조연 배우들의 존재감이 영화를 확실히 살려줍니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "무비러버",
+        "content": "한국형 재난 영화의 가능성을 보여준 작품이라고 생각합니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "극장앞고양이",
+        "content": "초반부터 끝까지 한 번도 지루하지 않게 몰입해서 봤습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "팝콘한통",
+        "content": "재미는 있었지만 새로운 부분은 별로 없었습니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "조용한관객",
+        "content": "액션은 괜찮았고 이야기는 평범한 수준이었습니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "주말영화팬",
+        "content": "무난하게 시간을 보내기에는 나쁘지 않은 선택입니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "새벽영화관",
+        "content": "분장과 미술은 잘했는데 개연성은 조금 아쉬웠습니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "리뷰쓰는수달",
+        "content": "후반부 신파가 너무 과해서 몰입이 완전히 깨졌습니다.",
+        "expected": "부정"
+      },
+      {
+        "author_name": "냉정한관람객",
+        "content": "인물들의 행동이 이해되지 않는 장면이 많아 답답했습니다.",
+        "expected": "부정"
+      },
+      {
+        "author_name": "까칠한관객",
+        "content": "결말이 예상한 그대로여서 실망스러웠습니다.",
+        "expected": "부정"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 293670,
+    "title": "곡성",
+    "reviews": [
+      {
+        "author_name": "시네필준",
+        "content": "불친절하지만 그만큼 곱씹을 거리가 많은 작품입니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "무비러버",
+        "content": "중반부 굿 장면은 한국 영화사에 남을 명장면이라고 생각합니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "영화보는사람",
+        "content": "음향과 촬영이 만들어내는 불안한 분위기가 대단했습니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "극장앞고양이",
+        "content": "보고 나서 해석을 찾아보게 만드는 힘이 있는 영화입니다.",
+        "expected": "긍정"
+      },
+      {
+        "author_name": "상영관2열",
+        "content": "잘 만든 것 같기는 한데 무슨 이야기인지는 잘 모르겠습니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "조용한관객",
+        "content": "분위기는 좋았지만 취향을 많이 탈 것 같습니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "주말영화팬",
+        "content": "완성도는 인정하지만 다시 볼 생각은 들지 않습니다.",
+        "expected": "중립"
+      },
+      {
+        "author_name": "팝콘한통",
+        "content": "너무 길고 늘어져서 후반부에는 완전히 지쳤습니다.",
+        "expected": "부정"
+      },
+      {
+        "author_name": "새벽영화관",
+        "content": "무엇을 말하려는지 끝까지 알 수 없어서 답답하기만 했습니다.",
+        "expected": "부정"
+      },
+      {
+        "author_name": "리뷰쓰는수달",
+        "content": "불쾌한 장면이 지나치게 많아서 보는 내내 힘들었습니다.",
+        "expected": "부정"
+      },
+      {
+        "author_name": "냉정한관람객",
+        "content": "열린 결말이라기보다 설명을 포기한 느낌이라 실망했습니다.",
+        "expected": "부정"
+      },
+      {
+        "author_name": "까칠한관객",
+        "content": "기대하고 봤는데 지루하기만 하고 남는 것이 없었습니다.",
+        "expected": "부정"
+      }
+    ]
+  }
+]

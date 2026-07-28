@@ -1,0 +1,2702 @@
+[
+  {
+    "tmdb_id": 496243,
+    "title": "기생충",
+    "release_date": "2019-05-30",
+    "director": "봉준호",
+    "genre": "코미디, 스릴러, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/jjHccoFjbqlfr4VGLVLT7yek0Xn.jpg",
+    "tmdb_vote_average": 8.49
+  },
+  {
+    "tmdb_id": 157336,
+    "title": "인터스텔라",
+    "release_date": "2014-11-05",
+    "director": "크리스토퍼 놀란",
+    "genre": "모험, 드라마, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/evoEi8SBSvIIEveM3V6nCJ6vKj8.jpg",
+    "tmdb_vote_average": 8.483
+  },
+  {
+    "tmdb_id": 313369,
+    "title": "라라랜드",
+    "release_date": "2016-12-01",
+    "director": "데이미언 셔젤",
+    "genre": "코미디, 드라마, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/ad9ndytwOckyShSc0A6tx1rZRkW.jpg",
+    "tmdb_vote_average": 7.898
+  },
+  {
+    "tmdb_id": 396535,
+    "title": "부산행",
+    "release_date": "2016-07-20",
+    "director": "연상호",
+    "genre": "액션, 공포, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6XvEZVBFFjybvb1yQd1qfOC6F2S.jpg",
+    "tmdb_vote_average": 7.753
+  },
+  {
+    "tmdb_id": 293670,
+    "title": "곡성",
+    "release_date": "2016-05-12",
+    "director": "나홍진",
+    "genre": "공포, 미스터리",
+    "poster_url": "https://image.tmdb.org/t/p/w500/k9AKtgRErXjz14lFHL2IJVCgwOT.jpg",
+    "tmdb_vote_average": 7.4
+  },
+  {
+    "tmdb_id": 1632181,
+    "title": "Socias por accidente",
+    "release_date": "2026-03-12",
+    "director": "Ihtzi Hurtado",
+    "genre": "코미디, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/j0CIVzeR7hRAPBPGR54qDZoOQpp.jpg",
+    "tmdb_vote_average": 8.994
+  },
+  {
+    "tmdb_id": 1007757,
+    "title": "뒤바뀐 친구들의 신비한 모험",
+    "release_date": "2026-05-01",
+    "director": "네이든 그레노",
+    "genre": "모험, 애니메이션, 가족, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/uv0iRQXDbtWHo1zPk3TZNo4Biti.jpg",
+    "tmdb_vote_average": 8.896
+  },
+  {
+    "tmdb_id": 278,
+    "title": "쇼생크 탈출",
+    "release_date": "1994-09-23",
+    "director": "프랭크 다라본트",
+    "genre": "드라마, 범죄",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qV9BQZdiM8foEzDz0Ag5hGWE5qM.jpg",
+    "tmdb_vote_average": 8.726
+  },
+  {
+    "tmdb_id": 936075,
+    "title": "마이클",
+    "release_date": "2026-04-22",
+    "director": "안톤 후쿠아",
+    "genre": "음악, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/piMZqtd0gGS7OgkhDwiQ7vVViBQ.jpg",
+    "tmdb_vote_average": 8.695
+  },
+  {
+    "tmdb_id": 238,
+    "title": "대부",
+    "release_date": "1972-03-14",
+    "director": "프란시스 포드 코폴라",
+    "genre": "드라마, 범죄",
+    "poster_url": "https://image.tmdb.org/t/p/w500/1yvBkSv4ZLS1GohlmMDmdpSgfYo.jpg",
+    "tmdb_vote_average": 8.7
+  },
+  {
+    "tmdb_id": 687163,
+    "title": "프로젝트 헤일메리",
+    "release_date": "2026-03-15",
+    "director": "필 로드, 크리스토퍼 밀러",
+    "genre": "SF, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qqGpVVZk2KD1lAvccgTU4Z6nh1H.jpg",
+    "tmdb_vote_average": 8.659
+  },
+  {
+    "tmdb_id": 240,
+    "title": "대부 2",
+    "release_date": "1974-12-20",
+    "director": "프란시스 포드 코폴라",
+    "genre": "드라마, 범죄",
+    "poster_url": "https://image.tmdb.org/t/p/w500/35RGDgySfINL9V2e6lkDECQ0hRa.jpg",
+    "tmdb_vote_average": 8.571
+  },
+  {
+    "tmdb_id": 424,
+    "title": "쉰들러 리스트",
+    "release_date": "1993-12-15",
+    "director": "스티븐 스필버그",
+    "genre": "드라마, 역사, 전쟁",
+    "poster_url": "https://image.tmdb.org/t/p/w500/oyyUcGwLX7LTFS1pQbLrQpyzIyt.jpg",
+    "tmdb_vote_average": 8.57
+  },
+  {
+    "tmdb_id": 389,
+    "title": "12명의 성난 사람들",
+    "release_date": "1957-04-10",
+    "director": "시드니 루멧",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/yg2XzSxH10DVGNY73e7yZgLnDF5.jpg",
+    "tmdb_vote_average": 8.566
+  },
+  {
+    "tmdb_id": 129,
+    "title": "센과 치히로의 행방불명",
+    "release_date": "2001-07-20",
+    "director": "미야자키 하야오",
+    "genre": "애니메이션, 가족, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/u1L4qxIu5sC2P082uMHYt7Ifvnj.jpg",
+    "tmdb_vote_average": 8.534
+  },
+  {
+    "tmdb_id": 155,
+    "title": "다크 나이트",
+    "release_date": "2008-07-16",
+    "director": "크리스토퍼 놀란",
+    "genre": "액션, 범죄, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/9ICUbdveP56jRoMMVkXSOr3ceyV.jpg",
+    "tmdb_vote_average": 8.5
+  },
+  {
+    "tmdb_id": 19404,
+    "title": "용감한 자가 신부를 데려가리",
+    "release_date": "1995-10-20",
+    "director": "Aditya Chopra",
+    "genre": "코미디, 드라마, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+    "tmdb_vote_average": 8.51
+  },
+  {
+    "tmdb_id": 497,
+    "title": "그린 마일",
+    "release_date": "1999-12-10",
+    "director": "프랭크 다라본트",
+    "genre": "판타지, 드라마, 범죄",
+    "poster_url": "https://image.tmdb.org/t/p/w500/pk1TPODQVnI8GdLf0DhlJQYxWjd.jpg",
+    "tmdb_vote_average": 8.506
+  },
+  {
+    "tmdb_id": 122,
+    "title": "반지의 제왕: 왕의 귀환",
+    "release_date": "2003-12-17",
+    "director": "피터 잭슨",
+    "genre": "모험, 판타지, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/n8BPIRqvj1SdTRND828ANXhmSng.jpg",
+    "tmdb_vote_average": 8.502
+  },
+  {
+    "tmdb_id": 1330021,
+    "title": "아쿠아리움이 문을 닫으면",
+    "release_date": "2026-05-07",
+    "director": "Olivia Newman",
+    "genre": "드라마, 미스터리",
+    "poster_url": "https://image.tmdb.org/t/p/w500/mUt0SnTp0oAN38BHD7NGX8hmwAT.jpg",
+    "tmdb_vote_average": 8.496
+  },
+  {
+    "tmdb_id": 680,
+    "title": "펄프 픽션",
+    "release_date": "1994-09-10",
+    "director": "쿠엔틴 타란티노",
+    "genre": "스릴러, 범죄, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/lnRkeQstaCvfMahZq7p9eAWzK1a.jpg",
+    "tmdb_vote_average": 8.482
+  },
+  {
+    "tmdb_id": 372058,
+    "title": "너의 이름은.",
+    "release_date": "2016-07-01",
+    "director": "신카이 마코토",
+    "genre": "애니메이션, 로맨스, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/2DJCufz3Oa703PbLjNX1pM6MCG2.jpg",
+    "tmdb_vote_average": 8.5
+  },
+  {
+    "tmdb_id": 1181678,
+    "title": "¿Quieres ser mi hijo?",
+    "release_date": "2023-09-21",
+    "director": "Ihtzi Hurtado",
+    "genre": "코미디, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6PQJsmuvSMZQMmlJfTpjIkrizUh.jpg",
+    "tmdb_vote_average": 8.479
+  },
+  {
+    "tmdb_id": 1383731,
+    "title": "프로텍터",
+    "release_date": "2026-02-20",
+    "director": "Adrian Grünberg",
+    "genre": "액션, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/kJvFZt7x3VWOtMQwANwXGD59ArJ.jpg",
+    "tmdb_vote_average": 8.47
+  },
+  {
+    "tmdb_id": 1218925,
+    "title": "극장판 체인소 맨:  레제편",
+    "release_date": "2025-09-19",
+    "director": "요시하라 타츠야",
+    "genre": "애니메이션, 액션, 로맨스, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/oTn0PoR8gSMpMqJaT2pUtkkN0Ia.jpg",
+    "tmdb_vote_average": 8.47
+  },
+  {
+    "tmdb_id": 429,
+    "title": "석양의 무법자",
+    "release_date": "1966-12-23",
+    "director": "세르조 레오네",
+    "genre": "서부",
+    "poster_url": "https://image.tmdb.org/t/p/w500/s7qPuoj4liolAtmx9vcL6AyaZzR.jpg",
+    "tmdb_vote_average": 8.5
+  },
+  {
+    "tmdb_id": 13,
+    "title": "포레스트 검프",
+    "release_date": "1994-06-23",
+    "director": "로버트 저메키스",
+    "genre": "코미디, 드라마, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/l8wvbQQIBV8LBHmx3Wx9xbE2kzt.jpg",
+    "tmdb_vote_average": 8.465
+  },
+  {
+    "tmdb_id": 769,
+    "title": "좋은 친구들",
+    "release_date": "1990-09-12",
+    "director": "마틴 스콜세지",
+    "genre": "드라마, 범죄",
+    "poster_url": "https://image.tmdb.org/t/p/w500/zF9hSBS1t7PVFLo01GrJ3OjGi67.jpg",
+    "tmdb_vote_average": 8.452
+  },
+  {
+    "tmdb_id": 346,
+    "title": "7인의 사무라이",
+    "release_date": "1954-04-26",
+    "director": "구로사와 아키라",
+    "genre": "액션, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6Y8Q5t79ybiDA7XubUTneqZhjA3.jpg",
+    "tmdb_vote_average": 8.451
+  },
+  {
+    "tmdb_id": 14537,
+    "title": "하라키리",
+    "release_date": "1962-09-15",
+    "director": "고바야시 마사키",
+    "genre": "액션, 드라마, 역사",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6Cw2LJzt6jRALHystjzWazeB4Pg.jpg",
+    "tmdb_vote_average": 8.442
+  },
+  {
+    "tmdb_id": 12477,
+    "title": "반딧불의 묘",
+    "release_date": "1988-04-16",
+    "director": "다카하타 이사오",
+    "genre": "애니메이션, 드라마, 전쟁",
+    "poster_url": "https://image.tmdb.org/t/p/w500/uN0x0G4uuRjFJIFN57iYihBV2Qh.jpg",
+    "tmdb_vote_average": 8.442
+  },
+  {
+    "tmdb_id": 637,
+    "title": "인생은 아름다워",
+    "release_date": "1997-12-20",
+    "director": "로베르토 베니니",
+    "genre": "코미디, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/iyQ8pmCpmnPrGtaHMfmSvQLv8Fy.jpg",
+    "tmdb_vote_average": 8.4
+  },
+  {
+    "tmdb_id": 120,
+    "title": "반지의 제왕: 반지 원정대",
+    "release_date": "2001-12-18",
+    "director": "피터 잭슨",
+    "genre": "모험, 판타지, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/r18JdjImbWDRwkbVDIzWoLQqkCo.jpg",
+    "tmdb_vote_average": 8.4
+  },
+  {
+    "tmdb_id": 550,
+    "title": "파이트 클럽",
+    "release_date": "1999-10-15",
+    "director": "데이비드 핀처",
+    "genre": "드라마, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/eKZ07Ted7VHxQjbuZrRBFOamcKJ.jpg",
+    "tmdb_vote_average": 8.438
+  },
+  {
+    "tmdb_id": 11216,
+    "title": "시네마 천국",
+    "release_date": "1988-11-17",
+    "director": "주세페 토르나토레",
+    "genre": "드라마, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/2C3k44qqbaqJ0JfJyXVI6r7IWMr.jpg",
+    "tmdb_vote_average": 8.429
+  },
+  {
+    "tmdb_id": 598,
+    "title": "시티 오브 갓",
+    "release_date": "2002-08-30",
+    "director": "페르난도 메이렐레스",
+    "genre": "드라마, 범죄",
+    "poster_url": "https://image.tmdb.org/t/p/w500/iKXrQB16sxeXoc6GlnYjeeZKsOW.jpg",
+    "tmdb_vote_average": 8.428
+  },
+  {
+    "tmdb_id": 121,
+    "title": "반지의 제왕: 두 개의 탑",
+    "release_date": "2002-12-18",
+    "director": "피터 잭슨",
+    "genre": "모험, 판타지, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/zxZdTi3fA7aDxEOivmzZAY2bmTu.jpg",
+    "tmdb_vote_average": 8.4
+  },
+  {
+    "tmdb_id": 539,
+    "title": "싸이코",
+    "release_date": "1960-06-22",
+    "director": "알프레드 히치콕",
+    "genre": "공포, 스릴러, 미스터리",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vC3P8hH4r3I3fHiRFa1kj6yzeaN.jpg",
+    "tmdb_vote_average": 8.412
+  },
+  {
+    "tmdb_id": 40096,
+    "title": "어 독스 윌",
+    "release_date": "2000-09-15",
+    "director": "Guel Arraes",
+    "genre": "코미디, 드라마, 판타지, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/imcOp1kJsCsAFCoOtY5OnPrFbAf.jpg",
+    "tmdb_vote_average": 8.411
+  },
+  {
+    "tmdb_id": 667257,
+    "title": "불가능한 것들",
+    "release_date": "2021-06-17",
+    "director": "에르네스토 콘트레라스",
+    "genre": "가족, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/eaf7GQj0ieOwm08rrvjJQNbN0kN.jpg",
+    "tmdb_vote_average": 8.41
+  },
+  {
+    "tmdb_id": 510,
+    "title": "뻐꾸기 둥지 위로 날아간 새",
+    "release_date": "1975-11-19",
+    "director": "밀로스 포먼",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/9FfIRtY1BpUHDeYQ6CyOEXnJXLn.jpg",
+    "tmdb_vote_average": 8.408
+  },
+  {
+    "tmdb_id": 378064,
+    "title": "목소리의 형태",
+    "release_date": "2016-09-17",
+    "director": "야마다 나오코",
+    "genre": "애니메이션, 드라마, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/aUF10sSW5OVfpK6Ma3vJYd3Tp3A.jpg",
+    "tmdb_vote_average": 8.396
+  },
+  {
+    "tmdb_id": 255709,
+    "title": "소원",
+    "release_date": "2013-10-02",
+    "director": "이준익",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/PZlNvDwKwHeHUsXnd6SEDXWZNn.jpg",
+    "tmdb_vote_average": 8.394
+  },
+  {
+    "tmdb_id": 324857,
+    "title": "스파이더맨: 뉴 유니버스",
+    "release_date": "2018-12-06",
+    "director": "밥 퍼시케티, 피터 램지, 로드니 로스먼",
+    "genre": "애니메이션, 액션, 모험, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/d9V6Q9vpVpmaca7vwSUbCajtDb3.jpg",
+    "tmdb_vote_average": 8.393
+  },
+  {
+    "tmdb_id": 1891,
+    "title": "스타워즈 에피소드 5: 제국의 역습",
+    "release_date": "1980-05-20",
+    "director": "어빈 케쉬너",
+    "genre": "모험, 액션, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/icaO5w8uLVm4JxMew71JJrQE2YX.jpg",
+    "tmdb_vote_average": 8.392
+  },
+  {
+    "tmdb_id": 4935,
+    "title": "하울의 움직이는 성",
+    "release_date": "2004-09-09",
+    "director": "미야자키 하야오",
+    "genre": "판타지, 애니메이션, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/xiz6TiSduvR1U3VLfWVlBEdT9fO.jpg",
+    "tmdb_vote_average": 8.389
+  },
+  {
+    "tmdb_id": 614945,
+    "title": "음성메시지가 도착했습니다",
+    "release_date": "2026-06-20",
+    "director": "Leah McKendrick",
+    "genre": "로맨스, 코미디, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/yOUKcPjv1cdTc2MsmXqqUwsrfOa.jpg",
+    "tmdb_vote_average": 8.386
+  },
+  {
+    "tmdb_id": 696374,
+    "title": "가브리엘의 지옥",
+    "release_date": "2020-05-29",
+    "director": "Tosca Musk",
+    "genre": "로맨스, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg",
+    "tmdb_vote_average": 8.383
+  },
+  {
+    "tmdb_id": 807,
+    "title": "세븐",
+    "release_date": "1995-09-22",
+    "director": "데이비드 핀처",
+    "genre": "범죄, 미스터리, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/izzk8dbmrLowcoGbFaebqJvzyXg.jpg",
+    "tmdb_vote_average": 8.382
+  },
+  {
+    "tmdb_id": 311,
+    "title": "원스 어폰 어 타임 인 아메리카",
+    "release_date": "1984-05-23",
+    "director": "세르조 레오네",
+    "genre": "드라마, 범죄",
+    "poster_url": "https://image.tmdb.org/t/p/w500/xbuc6sjIIopkA1Ep24rR6yCw0DK.jpg",
+    "tmdb_vote_average": 8.376
+  },
+  {
+    "tmdb_id": 244786,
+    "title": "위플래쉬",
+    "release_date": "2014-10-10",
+    "director": "데이미언 셔젤",
+    "genre": "드라마, 음악, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/oKNkhmyIBiDENivK6ELZxfBWa3q.jpg",
+    "tmdb_vote_average": 8.375
+  },
+  {
+    "tmdb_id": 27205,
+    "title": "인셉션",
+    "release_date": "2010-07-15",
+    "director": "크리스토퍼 놀란",
+    "genre": "액션, SF, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/atSxEGstxXRoSKDQFBgqQ5lpGSt.jpg",
+    "tmdb_vote_average": 8.372
+  },
+  {
+    "tmdb_id": 423,
+    "title": "피아니스트",
+    "release_date": "2002-09-17",
+    "director": "로만 폴란스키",
+    "genre": "드라마, 전쟁",
+    "poster_url": "https://image.tmdb.org/t/p/w500/t7L2YDpu635qKT3ehqZxry4yvTX.jpg",
+    "tmdb_vote_average": 8.371
+  },
+  {
+    "tmdb_id": 620249,
+    "title": "나소흑전기: 첫만남편",
+    "release_date": "2019-08-27",
+    "director": "MTJJ",
+    "genre": "애니메이션, 판타지, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/4VhlO8O5COmkz3XBwrbfnunTnzK.jpg",
+    "tmdb_vote_average": 8.37
+  },
+  {
+    "tmdb_id": 12493,
+    "title": "천국과 지옥",
+    "release_date": "1963-03-01",
+    "director": "구로사와 아키라",
+    "genre": "드라마, 범죄, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/3faOft1rjJrIahaLHof9AwDth2z.jpg",
+    "tmdb_vote_average": 8.365
+  },
+  {
+    "tmdb_id": 770156,
+    "title": "루시 쉬머즈 앤 더 프린스 오프 피스",
+    "release_date": "2020-10-19",
+    "director": "Rob Diamond",
+    "genre": "드라마, 가족",
+    "poster_url": "https://image.tmdb.org/t/p/w500/yfnJ5qIYx7q33fY4jqv9Pu95RSg.jpg",
+    "tmdb_vote_average": 8.358
+  },
+  {
+    "tmdb_id": 724089,
+    "title": "가브리엘의 지옥 파트 2",
+    "release_date": "2020-07-31",
+    "director": "Tosca Musk",
+    "genre": "로맨스, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/x5o8cLZfEXMoZczTYWLrUo1P7UJ.jpg",
+    "tmdb_vote_average": 8.346
+  },
+  {
+    "tmdb_id": 274,
+    "title": "양들의 침묵",
+    "release_date": "1991-02-14",
+    "director": "조나단 드미",
+    "genre": "범죄, 스릴러, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/hOr56UKAsB9waNDHhriOntCjHTJ.jpg",
+    "tmdb_vote_average": 8.3
+  },
+  {
+    "tmdb_id": 569094,
+    "title": "스파이더맨: 어크로스 더 유니버스",
+    "release_date": "2023-05-31",
+    "director": "켐프 파워스, 저스틴 톰슨, 조아킴 도스 샌토스",
+    "genre": "애니메이션, 액션, 모험, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/lMWTlGr9jVUC18T515hPRKym5QQ.jpg",
+    "tmdb_vote_average": 8.339
+  },
+  {
+    "tmdb_id": 761053,
+    "title": "가브리엘의 지옥 파트 3",
+    "release_date": "2020-11-19",
+    "director": "Tosca Musk",
+    "genre": "로맨스, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/fYtHxTxlhzD4QWfEbrC1rypysSD.jpg",
+    "tmdb_vote_average": 8.339
+  },
+  {
+    "tmdb_id": 567,
+    "title": "이창",
+    "release_date": "1954-08-01",
+    "director": "알프레드 히치콕",
+    "genre": "스릴러, 미스터리, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/jU5Fe7n9rsEBa0uaV5dqGjJGwmX.jpg",
+    "tmdb_vote_average": 8.338
+  },
+  {
+    "tmdb_id": 1058694,
+    "title": "래디컬",
+    "release_date": "2023-10-19",
+    "director": "Christopher Zalla",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/eSatbygYZp8ooprBHZdb6GFZxGB.jpg",
+    "tmdb_vote_average": 8.336
+  },
+  {
+    "tmdb_id": 105,
+    "title": "빽 투 더 퓨쳐",
+    "release_date": "1985-07-03",
+    "director": "로버트 저메키스",
+    "genre": "모험, 코미디, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/zzxvtXJ9pahjWVX3Q2ko29J0Zf6.jpg",
+    "tmdb_vote_average": 8.327
+  },
+  {
+    "tmdb_id": 73,
+    "title": "아메리칸 히스토리 X",
+    "release_date": "1998-07-01",
+    "director": "토니 케이",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/nm4XkYBt79ZjUQj6Rqxxzl1Wt3c.jpg",
+    "tmdb_vote_average": 8.327
+  },
+  {
+    "tmdb_id": 128,
+    "title": "모노노케 히메",
+    "release_date": "1997-07-12",
+    "director": "미야자키 하야오",
+    "genre": "모험, 판타지, 애니메이션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/lLftgg4iFyDwuodra3Isr41y2Lq.jpg",
+    "tmdb_vote_average": 8.322
+  },
+  {
+    "tmdb_id": 1439930,
+    "title": "퍼니셔 원 라스트 킬",
+    "release_date": "2026-05-12",
+    "director": "Reinaldo Marcus Green",
+    "genre": "액션, 드라마, 범죄",
+    "poster_url": "https://image.tmdb.org/t/p/w500/dfKKipbQswChklXaaVTh6FP3oaJ.jpg",
+    "tmdb_vote_average": 8.312
+  },
+  {
+    "tmdb_id": 1184918,
+    "title": "와일드 로봇",
+    "release_date": "2024-09-12",
+    "director": "크리스 샌더스",
+    "genre": "가족, 애니메이션, SF, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/iA9NiygwSOBy8FjZjvdYOMxRUG0.jpg",
+    "tmdb_vote_average": 8.313
+  },
+  {
+    "tmdb_id": 533514,
+    "title": "극장판 바이올렛 에버가든",
+    "release_date": "2020-09-18",
+    "director": "이시다테 타이치",
+    "genre": "애니메이션, 드라마, 판타지, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/mBUy2lCwk6fpByQ7GBFKRApKEHb.jpg",
+    "tmdb_vote_average": 8.308
+  },
+  {
+    "tmdb_id": 10494,
+    "title": "퍼펙트 블루",
+    "release_date": "1998-02-28",
+    "director": "콘 사토시",
+    "genre": "애니메이션, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/cpsxJP7lUNEozPtDLIM5gPC9gJH.jpg",
+    "tmdb_vote_average": 8.3
+  },
+  {
+    "tmdb_id": 3782,
+    "title": "이키루",
+    "release_date": "1952-10-09",
+    "director": "구로사와 아키라",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8aja0bziXOA0ZgspOLyt4PVZ9kF.jpg",
+    "tmdb_vote_average": 8.301
+  },
+  {
+    "tmdb_id": 207,
+    "title": "죽은 시인의 사회",
+    "release_date": "1989-06-02",
+    "director": "피터 위어",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/41AJ4X5TRWpECsiMIKS8so4MSsD.jpg",
+    "tmdb_vote_average": 8.3
+  },
+  {
+    "tmdb_id": 101,
+    "title": "레옹",
+    "release_date": "1994-09-14",
+    "director": "뤽 베송",
+    "genre": "범죄, 드라마, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/cVNasmF1Egd3v3mpq747Hizxx4x.jpg",
+    "tmdb_vote_average": 8.294
+  },
+  {
+    "tmdb_id": 372754,
+    "title": "동급생",
+    "release_date": "2016-02-20",
+    "director": "나카무라 쇼코",
+    "genre": "로맨스, 애니메이션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/jNJ9shLhjRavjrCGRnoTmYB18d2.jpg",
+    "tmdb_vote_average": 8.291
+  },
+  {
+    "tmdb_id": 820067,
+    "title": "극장판 5등분의 신부",
+    "release_date": "2022-05-20",
+    "director": "진보 마사토",
+    "genre": "애니메이션, 코미디, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/shtqSAsB8snS3iww99iksu2QaoZ.jpg",
+    "tmdb_vote_average": 8.3
+  },
+  {
+    "tmdb_id": 644479,
+    "title": "Dedicada A Mi Ex",
+    "release_date": "2019-11-01",
+    "director": "Jorge Ulloa",
+    "genre": "드라마, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/xc4bTXVwYNXi10jG9dwcaYt5IpU.jpg",
+    "tmdb_vote_average": 8.285
+  },
+  {
+    "tmdb_id": 3082,
+    "title": "모던 타임즈",
+    "release_date": "1936-02-05",
+    "director": "찰리 채플린",
+    "genre": "코미디, 드라마, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/51tKLNNKi8fKZq9DTcGpFAJ7IPc.jpg",
+    "tmdb_vote_average": 8.281
+  },
+  {
+    "tmdb_id": 914,
+    "title": "위대한 독재자",
+    "release_date": "1940-10-15",
+    "director": "찰리 채플린",
+    "genre": "코미디, 전쟁",
+    "poster_url": "https://image.tmdb.org/t/p/w500/uw26mSTaA10hg2yuQfNaFLSeY3h.jpg",
+    "tmdb_vote_average": 8.28
+  },
+  {
+    "tmdb_id": 1585,
+    "title": "멋진 인생",
+    "release_date": "1946-12-20",
+    "director": "프랭크 카프라",
+    "genre": "드라마, 가족, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/fhQfao7sFWlnV5JieOexCaGPTzS.jpg",
+    "tmdb_vote_average": 8.278
+  },
+  {
+    "tmdb_id": 42269,
+    "title": "우리는 그토록 사랑했네",
+    "release_date": "1974-12-21",
+    "director": "에토레 스콜라",
+    "genre": "드라마, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/jsjfvG1971tCUPtvj1dNSPWNzST.jpg",
+    "tmdb_vote_average": 8.277
+  },
+  {
+    "tmdb_id": 654299,
+    "title": "Como caído del cielo",
+    "release_date": "2019-12-24",
+    "director": "Pepe Bojórquez",
+    "genre": "코미디, 드라마, 음악",
+    "poster_url": "https://image.tmdb.org/t/p/w500/o9cSEHrXzPOO4OIoT9yrdxc216w.jpg",
+    "tmdb_vote_average": 8.276
+  },
+  {
+    "tmdb_id": 599,
+    "title": "선셋 대로",
+    "release_date": "1950-08-10",
+    "director": "빌리 와일더",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg",
+    "tmdb_vote_average": 8.3
+  },
+  {
+    "tmdb_id": 77338,
+    "title": "언터처블: 1%의 우정",
+    "release_date": "2011-11-02",
+    "director": "Éric Toledano, Olivier Nakache",
+    "genre": "드라마, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/4oOf3pmDD5rMNQGgsf7zMbFKtKC.jpg",
+    "tmdb_vote_average": 8.273
+  },
+  {
+    "tmdb_id": 335,
+    "title": "옛날 옛적 서부에서",
+    "release_date": "1968-12-21",
+    "director": "세르조 레오네",
+    "genre": "드라마, 서부",
+    "poster_url": "https://image.tmdb.org/t/p/w500/3MPqF2iK6ZBoagnB5H1pjImHpHc.jpg",
+    "tmdb_vote_average": 8.272
+  },
+  {
+    "tmdb_id": 1139087,
+    "title": "원스 어폰 어 스튜디오",
+    "release_date": "2023-09-24",
+    "director": "Trent Correy, Dan Abraham",
+    "genre": "애니메이션, 가족, 판타지, 드라마, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qLOcYTVg5YXY7FwrGXUeYa2itaH.jpg",
+    "tmdb_vote_average": 8.3
+  },
+  {
+    "tmdb_id": 652837,
+    "title": "조제, 호랑이 그리고 물고기들",
+    "release_date": "2020-12-25",
+    "director": "타무라 코타로",
+    "genre": "애니메이션, 드라마, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/v60S8rPRCQRYSeCtmLiuRpQqIfC.jpg",
+    "tmdb_vote_average": 8.268
+  },
+  {
+    "tmdb_id": 28,
+    "title": "지옥의 묵시록",
+    "release_date": "1979-05-19",
+    "director": "프란시스 포드 코폴라",
+    "genre": "드라마, 전쟁",
+    "poster_url": "https://image.tmdb.org/t/p/w500/giP5yeJBrsqglkM05pbiTyRsoBa.jpg",
+    "tmdb_vote_average": 8.267
+  },
+  {
+    "tmdb_id": 1226863,
+    "title": "슈퍼 마리오 갤럭시",
+    "release_date": "2026-04-01",
+    "director": "아론 호바스, 마이클 제레닉",
+    "genre": "가족, 코미디, 모험, 판타지, 애니메이션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/knaXOBDBecVBWZVup3zXaOoy23v.jpg",
+    "tmdb_vote_average": 8.262
+  },
+  {
+    "tmdb_id": 92321,
+    "title": "반딧불이의 숲으로",
+    "release_date": "2011-09-17",
+    "director": "오오모리 타카히로",
+    "genre": "로맨스, 애니메이션, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/ijAOOOrcLViYPkXIauhRhCj2ySf.jpg",
+    "tmdb_vote_average": 8.26
+  },
+  {
+    "tmdb_id": 92060,
+    "title": "Michael Jackson's Thriller",
+    "release_date": "1983-11-21",
+    "director": "존 랜디스",
+    "genre": "공포, 음악, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/tVd95TdfXybhhzGBHSlPiuaHs1y.jpg",
+    "tmdb_vote_average": 8.262
+  },
+  {
+    "tmdb_id": 18491,
+    "title": "엔드 오브 에반게리온",
+    "release_date": "1997-07-19",
+    "director": "츠루마키 카즈야, 안노 히데아키",
+    "genre": "애니메이션, SF, 드라마, 판타지, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/rS97sHvlsUAp8F6tkC78YjRU8wl.jpg",
+    "tmdb_vote_average": 8.3
+  },
+  {
+    "tmdb_id": 1339713,
+    "title": "옵세션",
+    "release_date": "2026-05-13",
+    "director": "커리 바커",
+    "genre": "공포, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "tmdb_vote_average": 8.3
+  },
+  {
+    "tmdb_id": 8587,
+    "title": "라이온 킹",
+    "release_date": "1994-06-15",
+    "director": "Roger Allers, Rob Minkoff",
+    "genre": "애니메이션, 가족, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/9Y048zYw66TWvpUtsiNK0uReiVX.jpg",
+    "tmdb_vote_average": 8.3
+  },
+  {
+    "tmdb_id": 637920,
+    "title": "7번방의 기적",
+    "release_date": "2019-10-10",
+    "director": "Mehmet Ada Öztekin",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/sOfUbzu6OUL5cscGODPdpHn9C1g.jpg",
+    "tmdb_vote_average": 8.254
+  },
+  {
+    "tmdb_id": 975,
+    "title": "영광의 길",
+    "release_date": "1957-10-25",
+    "director": "스탠리 큐브릭",
+    "genre": "전쟁, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/382xZKXOfuILUQ4HsqCGPLk8fgA.jpg",
+    "tmdb_vote_average": 8.252
+  },
+  {
+    "tmdb_id": 603,
+    "title": "매트릭스",
+    "release_date": "1999-03-31",
+    "director": "라나 워쇼스키, 릴리 워쇼스키",
+    "genre": "액션, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/fxBxoXFAYKWde6lKzXxSusn18Av.jpg",
+    "tmdb_vote_average": 8.253
+  },
+  {
+    "tmdb_id": 1356039,
+    "title": "역습",
+    "release_date": "2025-02-27",
+    "director": "Chava Cartas",
+    "genre": "액션, 모험, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6wHJ0hnFx5ZGTvSUTqq3WC07DgN.jpg",
+    "tmdb_vote_average": 8.249
+  },
+  {
+    "tmdb_id": 901,
+    "title": "시티 라이트",
+    "release_date": "1931-02-06",
+    "director": "찰리 채플린",
+    "genre": "코미디, 드라마, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/7oI6KKZDxEuxhIm5m9VpOF2Yi9N.jpg",
+    "tmdb_vote_average": 8.248
+  },
+  {
+    "tmdb_id": 630566,
+    "title": "클라우즈",
+    "release_date": "2020-10-09",
+    "director": "Justin Baldoni",
+    "genre": "음악, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/2XyVG0QUnPrukgV5Frpn40kkIky.jpg",
+    "tmdb_vote_average": 8.246
+  },
+  {
+    "tmdb_id": 10376,
+    "title": "피아니스트의 전설",
+    "release_date": "1998-10-28",
+    "director": "주세페 토르나토레",
+    "genre": "드라마, 음악",
+    "poster_url": "https://image.tmdb.org/t/p/w500/78wbKjbdIG11hVIv55g6rwgLG3l.jpg",
+    "tmdb_vote_average": 8.245
+  },
+  {
+    "tmdb_id": 1317149,
+    "title": "아이 스웨어",
+    "release_date": "2025-09-22",
+    "director": "Kirk Jones",
+    "genre": "드라마, 역사",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
+    "tmdb_vote_average": 8.241
+  },
+  {
+    "tmdb_id": 299536,
+    "title": "어벤져스: 인피니티 워",
+    "release_date": "2018-04-25",
+    "director": "조 루소, 안소니 루소",
+    "genre": "모험, 액션, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/kmP6viwzcEkZeoi1LaVcQemcvZh.jpg",
+    "tmdb_vote_average": 8.24
+  },
+  {
+    "tmdb_id": 299534,
+    "title": "어벤져스: 엔드게임",
+    "release_date": "2019-04-24",
+    "director": "안소니 루소, 조 루소",
+    "genre": "모험, SF, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/z7ilT5rNN9kDo8JZmgyhM6ej2xv.jpg",
+    "tmdb_vote_average": 8.239
+  },
+  {
+    "tmdb_id": 995133,
+    "title": "'소년과 두더지와 여우와 말' - The Boy, the Mole, the Fox and the Horse",
+    "release_date": "2022-12-25",
+    "director": "Peter Baynton, Charlie Mackesy",
+    "genre": "애니메이션, 가족, 드라마, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/uVc19KKsZ522uvVwqKbWA752gsK.jpg",
+    "tmdb_vote_average": 8.234
+  },
+  {
+    "tmdb_id": 670,
+    "title": "올드보이",
+    "release_date": "2003-11-21",
+    "director": "박찬욱",
+    "genre": "스릴러, 미스터리",
+    "poster_url": "https://image.tmdb.org/t/p/w500/xpa9ybm6tYGna5LseqSXvKpSSJn.jpg",
+    "tmdb_vote_average": 8.234
+  },
+  {
+    "tmdb_id": 29259,
+    "title": "구멍",
+    "release_date": "1960-03-18",
+    "director": "Jacques Becker",
+    "genre": "드라마, 스릴러, 범죄",
+    "poster_url": "https://image.tmdb.org/t/p/w500/e0jiNoXdEi2ilGRvhqcaoNCSglg.jpg",
+    "tmdb_vote_average": 8.233
+  },
+  {
+    "tmdb_id": 1368337,
+    "title": "오디세이",
+    "release_date": "2026-07-15",
+    "director": "크리스토퍼 놀란",
+    "genre": "모험, 액션, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8ze9OcVuFiy94s6FFPvsn4oC2e1.jpg",
+    "tmdb_vote_average": 8.0
+  },
+  {
+    "tmdb_id": 1275779,
+    "title": "디스클로저 데이",
+    "release_date": "2026-06-10",
+    "director": "스티븐 스필버그",
+    "genre": "SF, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/86EdVHOEFjFNPeE0sWjpCqcUORj.jpg",
+    "tmdb_vote_average": 7.383
+  },
+  {
+    "tmdb_id": 454639,
+    "title": "마스터즈 오브 유니버스",
+    "release_date": "2026-06-03",
+    "director": "트래비스 나이트",
+    "genre": "액션, 판타지, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/2hH4UGcfyuuQGA2dhCB1lLXPwv7.jpg",
+    "tmdb_vote_average": 7.333
+  },
+  {
+    "tmdb_id": 1108427,
+    "title": "모아나",
+    "release_date": "2026-07-08",
+    "director": "토마스 카일",
+    "genre": "가족, 판타지, 코미디, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/etJXeoQovaAcQD8gG0vebtoIlMH.jpg",
+    "tmdb_vote_average": 5.9
+  },
+  {
+    "tmdb_id": 1081003,
+    "title": "슈퍼걸",
+    "release_date": "2026-06-24",
+    "director": "크레이그 길레스피",
+    "genre": "액션, 모험, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/2LSzCgS4StdD2hizIzwgLLCNVnN.jpg",
+    "tmdb_vote_average": 6.3
+  },
+  {
+    "tmdb_id": 1083381,
+    "title": "백룸",
+    "release_date": "2026-05-27",
+    "director": "케인 파슨스",
+    "genre": "공포, 미스터리, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/c3Cb7h4ecFsGfUM02KF638kbbtC.jpg",
+    "tmdb_vote_average": 7.1
+  },
+  {
+    "tmdb_id": 1084244,
+    "title": "토이 스토리 5",
+    "release_date": "2026-06-17",
+    "director": "앤드류 스탠튼",
+    "genre": "애니메이션, 가족, 코미디, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/AqrJx3nVVMlKWXGaPIH32GzjEJA.jpg",
+    "tmdb_vote_average": 7.419
+  },
+  {
+    "tmdb_id": 1315772,
+    "title": "미니언즈 & 몬스터즈",
+    "release_date": "2026-06-24",
+    "director": "피에르 코팽",
+    "genre": "모험, 애니메이션, 코미디, 가족, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8uvgppq5obV06X9X8SogQiU79Kd.jpg",
+    "tmdb_vote_average": 6.4
+  },
+  {
+    "tmdb_id": 1273221,
+    "title": "무서운 영화",
+    "release_date": "2026-06-03",
+    "director": "Michael Tiddes",
+    "genre": "코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+    "tmdb_vote_average": 6.5
+  },
+  {
+    "tmdb_id": 1727780,
+    "title": "Borderline",
+    "release_date": "2026-07-17",
+    "director": "Ryan Jordan",
+    "genre": "스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
+    "tmdb_vote_average": 7.7
+  },
+  {
+    "tmdb_id": 1284465,
+    "title": "로빈 후드의 죽음",
+    "release_date": "2026-06-18",
+    "director": "마이클 사노스키",
+    "genre": "모험, 드라마, 스릴러, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+    "tmdb_vote_average": 6.636
+  },
+  {
+    "tmdb_id": 1668364,
+    "title": "당신의 욕망",
+    "release_date": "2026-05-07",
+    "director": "Teresa Simone",
+    "genre": "미스터리, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/iHcyv2w6KBlnCtcpAmgsLpA85ny.jpg",
+    "tmdb_vote_average": 6.984
+  },
+  {
+    "tmdb_id": 980431,
+    "title": "아앙: 더 라스트 에어벤더",
+    "release_date": "2026-07-24",
+    "director": "로런 몽고메리",
+    "genre": "애니메이션, 액션, 모험, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+    "tmdb_vote_average": 9.372
+  },
+  {
+    "tmdb_id": 1228710,
+    "title": "만달로리안과 그로구",
+    "release_date": "2026-05-20",
+    "director": "존 파브로",
+    "genre": "액션, 모험, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/tMP99wq45GQMoeZwITgjAS8Wihm.jpg",
+    "tmdb_vote_average": 7.294
+  },
+  {
+    "tmdb_id": 1630409,
+    "title": "채권추심원",
+    "release_date": "2026-07-20",
+    "director": "สุรพงษ์ เพลินแสง",
+    "genre": "액션, 스릴러, 범죄",
+    "poster_url": "https://image.tmdb.org/t/p/w500/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
+    "tmdb_vote_average": 6.7
+  },
+  {
+    "tmdb_id": 969681,
+    "title": "스파이더맨: 브랜드 뉴 데이",
+    "release_date": "2026-07-28",
+    "director": "데스틴 대니얼 크레턴",
+    "genre": "SF, 액션, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8mLepBa5l591xFidRpn65xV7hb4.jpg",
+    "tmdb_vote_average": 9.1
+  },
+  {
+    "tmdb_id": 1110034,
+    "title": "크라켄",
+    "release_date": "2026-02-06",
+    "director": "Pål Øie",
+    "genre": "공포, 액션, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/k9HJ2IsxjEbqXvjzfusKZdA2E8n.jpg",
+    "tmdb_vote_average": 6.4
+  },
+  {
+    "tmdb_id": 1523145,
+    "title": "Твоё сердце будет разбито",
+    "release_date": "2026-03-26",
+    "director": "Михаил Вайнберг",
+    "genre": "로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/naOC89qeEygU44xM9EIot1m5AUQ.jpg",
+    "tmdb_vote_average": 7.1
+  },
+  {
+    "tmdb_id": 1127384,
+    "title": "딥 워터",
+    "release_date": "2026-04-30",
+    "director": "레니 할린",
+    "genre": "공포, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
+    "tmdb_vote_average": 7.3
+  },
+  {
+    "tmdb_id": 1314481,
+    "title": "악마는 프라다를 입는다 2",
+    "release_date": "2026-04-29",
+    "director": "데이비드 프랭클",
+    "genre": "코미디, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/28A1VUDML1RzENYNtIU1WkBLT9V.jpg",
+    "tmdb_vote_average": 7.157
+  },
+  {
+    "tmdb_id": 1318621,
+    "title": "디센던츠: 위키드 원더랜드",
+    "release_date": "2026-07-16",
+    "director": "키미 게이트우드",
+    "genre": "판타지, 가족, TV 영화, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qE3sZyv4zQss2kXviyJrN919GsP.jpg",
+    "tmdb_vote_average": 7.599
+  },
+  {
+    "tmdb_id": 200066,
+    "title": "Il frullo del passero",
+    "release_date": "1988-01-01",
+    "director": "Gianfranco Mingozzi",
+    "genre": "드라마, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8Q5INiyhPf7QxCIcXFWF8QXLPuN.jpg",
+    "tmdb_vote_average": 4.167
+  },
+  {
+    "tmdb_id": 1375646,
+    "title": "군체",
+    "release_date": "2026-05-21",
+    "director": "연상호",
+    "genre": "액션, 공포, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
+    "tmdb_vote_average": 7.879
+  },
+  {
+    "tmdb_id": 931285,
+    "title": "모탈 컴뱃 2",
+    "release_date": "2026-05-06",
+    "director": "Simon McQuoid",
+    "genre": "액션, 판타지, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/1NgBKiPrJzv1VHdEN8brdy59Rxo.jpg",
+    "tmdb_vote_average": 7.948
+  },
+  {
+    "tmdb_id": 634649,
+    "title": "스파이더맨: 노 웨이 홈",
+    "release_date": "2021-12-15",
+    "director": "존 왓츠",
+    "genre": "액션, 모험, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/fvqoI9r1GU2EFkc0xjZ6dKCuDVR.jpg",
+    "tmdb_vote_average": 7.935
+  },
+  {
+    "tmdb_id": 83533,
+    "title": "아바타: 불과 재",
+    "release_date": "2025-12-17",
+    "director": "제임스 카메론",
+    "genre": "SF, 모험, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/l18o0AK18KS118tWeROOKYkF0ng.jpg",
+    "tmdb_vote_average": 7.636
+  },
+  {
+    "tmdb_id": 949838,
+    "title": "72시간",
+    "release_date": "2026-07-20",
+    "director": "Tim Story",
+    "genre": "코미디, 범죄",
+    "poster_url": "https://image.tmdb.org/t/p/w500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+    "tmdb_vote_average": 6.6
+  },
+  {
+    "tmdb_id": 1003596,
+    "title": "어벤져스: 둠스데이",
+    "release_date": "2026-12-16",
+    "director": "조 루소, 안소니 루소",
+    "genre": "SF, 액션, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/z0JdEEe4SyR1OGJRbe0ckZ1jvoU.jpg",
+    "tmdb_vote_average": 0.0
+  },
+  {
+    "tmdb_id": 1304313,
+    "title": "리 크로닌의 미이라",
+    "release_date": "2026-04-15",
+    "director": "리 크로닌",
+    "genre": "공포, 미스터리",
+    "poster_url": "https://image.tmdb.org/t/p/w500/zXlwtzXP80yc3X0VokdxvmsFQfw.jpg",
+    "tmdb_vote_average": 7.954
+  },
+  {
+    "tmdb_id": 1280738,
+    "title": "분노의 추격",
+    "release_date": "2026-06-10",
+    "director": "타니가키 켄지",
+    "genre": "액션, 범죄, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
+    "tmdb_vote_average": 7.3
+  },
+  {
+    "tmdb_id": 1368314,
+    "title": "패신저",
+    "release_date": "2026-05-20",
+    "director": "안드레 외브레달",
+    "genre": "공포, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/igMwSTVF3Hm5pjouUmmwO4fABOo.jpg",
+    "tmdb_vote_average": 7.282
+  },
+  {
+    "tmdb_id": 47612,
+    "title": "Au Bonheur des Dames",
+    "release_date": "1930-07-03",
+    "director": "Julien Duvivier",
+    "genre": "드라마, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/sVFvFFEMRJ1eUzD6nbYLSqwHi0d.jpg",
+    "tmdb_vote_average": 6.3
+  },
+  {
+    "tmdb_id": 1413976,
+    "title": "시티즌 비질란테",
+    "release_date": "2026-06-19",
+    "director": "우베 볼",
+    "genre": "스릴러, 액션, 범죄",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+    "tmdb_vote_average": 6.36
+  },
+  {
+    "tmdb_id": 1443894,
+    "title": "포기브 어스 올",
+    "release_date": "2025-05-08",
+    "director": "Jordana Stott",
+    "genre": "공포, 서부, 스릴러, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/izS6SpLfpg03AUqsAIGIF2gU1mf.jpg",
+    "tmdb_vote_average": 5.489
+  },
+  {
+    "tmdb_id": 1235877,
+    "title": "ஜன நாயகன்",
+    "release_date": "2026-07-22",
+    "director": "H. Vinoth",
+    "genre": "액션, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/yTjxfu1xrRoz5cTbxNcx7X6BA8.jpg",
+    "tmdb_vote_average": 6.7
+  },
+  {
+    "tmdb_id": 1311031,
+    "title": "극장판 귀멸의 칼날: 무한성편",
+    "release_date": "2025-07-18",
+    "director": "소토자키 하루오",
+    "genre": "애니메이션, 액션, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/m6Dho6hDCcL5KI8mOQNemZAedFI.jpg",
+    "tmdb_vote_average": 7.752
+  },
+  {
+    "tmdb_id": 1698856,
+    "title": "Master of the Universe",
+    "release_date": "2026-05-22",
+    "director": "Marcel Walz",
+    "genre": "SF, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/3m8O5kxUlXjEi8YZ9mZ7QA0dg5Z.jpg",
+    "tmdb_vote_average": 4.6
+  },
+  {
+    "tmdb_id": 64439,
+    "title": "Une flamme dans mon cœur",
+    "release_date": "1987-06-03",
+    "director": "Alain Tanner",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qI2cTls7msoXF4wIqju7klqiZ6Y.jpg",
+    "tmdb_vote_average": 6.071
+  },
+  {
+    "tmdb_id": 1728704,
+    "title": "Siping",
+    "release_date": "2026-07-10",
+    "director": "Christopher Novabos",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/wNzRyplxryB8s6jb8Be5dYAKZb5.jpg",
+    "tmdb_vote_average": 4.0
+  },
+  {
+    "tmdb_id": 1430698,
+    "title": "The Bay",
+    "release_date": "2026-07-02",
+    "director": "Phil Volken",
+    "genre": "스릴러, 공포",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6F1UlF8YCtSDAoTpPY7WIkpm9sw.jpg",
+    "tmdb_vote_average": 6.0
+  },
+  {
+    "tmdb_id": 1285366,
+    "title": "사랑의 형태",
+    "release_date": "2024-07-06",
+    "director": "今岡信治",
+    "genre": "로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vTtq8iqEQlmgDTec9oe3YzjkOGT.jpg",
+    "tmdb_vote_average": 6.25
+  },
+  {
+    "tmdb_id": 976912,
+    "title": "그래픽 디자이어",
+    "release_date": "2023-08-31",
+    "director": "Andy Edwards",
+    "genre": "스릴러, 범죄",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8EHehEMsJVIPp2n2ROhZU8dbpJC.jpg",
+    "tmdb_vote_average": 7.114
+  },
+  {
+    "tmdb_id": 1361774,
+    "title": "'딩크' - The Dink",
+    "release_date": "2026-07-23",
+    "director": "Josh Greenbaum",
+    "genre": "코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/aLiErstcXnhoNLDJ1KIRVOdGEZO.jpg",
+    "tmdb_vote_average": 6.256
+  },
+  {
+    "tmdb_id": 1290821,
+    "title": "쉘터",
+    "release_date": "2026-01-28",
+    "director": "Ric Roman Waugh",
+    "genre": "액션, 범죄, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/tS3UZlVfESO4z8inIZXGiHNgDfE.jpg",
+    "tmdb_vote_average": 7.767
+  },
+  {
+    "tmdb_id": 151024,
+    "title": "La soldatessa alle grandi manovre",
+    "release_date": "1978-12-07",
+    "director": "Nando Cicero",
+    "genre": "코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/zWGFtuDT5B10Km0jrIhOX8kDeac.jpg",
+    "tmdb_vote_average": 4.967
+  },
+  {
+    "tmdb_id": 585534,
+    "title": "モーニング・ムーンは粗雑に",
+    "release_date": "1981-06-21",
+    "director": "Masanori Watanabe",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/ogRSqsyiiQOxPXQR6y2WUMwcMb8.jpg",
+    "tmdb_vote_average": 4.3
+  },
+  {
+    "tmdb_id": 1382832,
+    "title": "히포 어택: 헝그리",
+    "release_date": "2026-06-03",
+    "director": "James Nunn",
+    "genre": "스릴러, 공포",
+    "poster_url": "https://image.tmdb.org/t/p/w500/4uNhvGxBDiO0mU5UhxuXBsJwKF3.jpg",
+    "tmdb_vote_average": 7.015
+  },
+  {
+    "tmdb_id": 1327819,
+    "title": "호퍼스",
+    "release_date": "2026-03-04",
+    "director": "다니엘 총",
+    "genre": "모험, 애니메이션, 코미디, 가족, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vJu9THzQ26Q5sWOVnhOkuRH5M1P.jpg",
+    "tmdb_vote_average": 8.188
+  },
+  {
+    "tmdb_id": 1631506,
+    "title": "La ahorcada",
+    "release_date": "2026-04-22",
+    "director": "Miguel Ángel Lamata",
+    "genre": "공포",
+    "poster_url": "https://image.tmdb.org/t/p/w500/nJG3aJsul9dgiN5j8BtCNU6I9QV.jpg",
+    "tmdb_vote_average": 5.2
+  },
+  {
+    "tmdb_id": 1487861,
+    "title": "엘리지의 그림자",
+    "release_date": "2026-07-22",
+    "director": "Vellas",
+    "genre": "스릴러, 범죄, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/rfGsWCzUDVtv9DXW0hTbZeuTA6R.jpg",
+    "tmdb_vote_average": 6.685
+  },
+  {
+    "tmdb_id": 1419406,
+    "title": "포풍추영",
+    "release_date": "2025-08-16",
+    "director": "杨子",
+    "genre": "액션, 범죄, 드라마, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/uiIT7CsJ4V7rMnTqy7xYvj9IRhs.jpg",
+    "tmdb_vote_average": 7.905
+  },
+  {
+    "tmdb_id": 1491920,
+    "title": "쿵후여족",
+    "release_date": "2026-07-11",
+    "director": "주성치",
+    "genre": "드라마, 코미디, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
+    "tmdb_vote_average": 6.267
+  },
+  {
+    "tmdb_id": 755898,
+    "title": "우주전쟁",
+    "release_date": "2025-07-29",
+    "director": "Rich Lee",
+    "genre": "SF, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+    "tmdb_vote_average": 4.084
+  },
+  {
+    "tmdb_id": 1318447,
+    "title": "정점",
+    "release_date": "2026-04-24",
+    "director": "Baltasar Kormákur",
+    "genre": "액션, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/wGHGVAJGTn2BqsuFfPK8lzPiKjH.jpg",
+    "tmdb_vote_average": 6.864
+  },
+  {
+    "tmdb_id": 1301421,
+    "title": "양탐정 릴리",
+    "release_date": "2026-04-30",
+    "director": "Kyle Balda",
+    "genre": "코미디, 가족, 미스터리",
+    "poster_url": "https://image.tmdb.org/t/p/w500/bFZVmhTRBYn8KTgd3EAz0Mi2Yma.jpg",
+    "tmdb_vote_average": 7.912
+  },
+  {
+    "tmdb_id": 652,
+    "title": "트로이",
+    "release_date": "2004-05-13",
+    "director": "볼프강 페터젠",
+    "genre": "전쟁, 액션, 역사",
+    "poster_url": "https://image.tmdb.org/t/p/w500/1TsdNMKodmOKyo4xPacxq7opo3p.jpg",
+    "tmdb_vote_average": 7.182
+  },
+  {
+    "tmdb_id": 19995,
+    "title": "아바타",
+    "release_date": "2009-12-16",
+    "director": "제임스 카메론",
+    "genre": "액션, SF, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/m5lCha2XcbDowDoYHPc0DTNaCPU.jpg",
+    "tmdb_vote_average": 7.61
+  },
+  {
+    "tmdb_id": 1595852,
+    "title": "불러바드",
+    "release_date": "2026-04-10",
+    "director": "Sonia Méndez",
+    "genre": "로맨스, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qAYDwaHwjeUiPkYOj73EgrY0lNQ.jpg",
+    "tmdb_vote_average": 7.55
+  },
+  {
+    "tmdb_id": 1321008,
+    "title": "Black Box",
+    "release_date": "2026-06-25",
+    "director": "Steven Quale",
+    "genre": "공포, 스릴러, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
+    "tmdb_vote_average": 6.288
+  },
+  {
+    "tmdb_id": 261639,
+    "title": "尼寺の情事　極楽ＳＥＸ",
+    "release_date": "1998-02-06",
+    "director": "飯泉幸夫",
+    "genre": null,
+    "poster_url": "https://image.tmdb.org/t/p/w500/nth8G0m835nk1xWsV6Ga95FT2na.jpg",
+    "tmdb_vote_average": 3.4
+  },
+  {
+    "tmdb_id": 1175942,
+    "title": "배드 가이즈 2",
+    "release_date": "2025-07-24",
+    "director": "Pierre Perifel",
+    "genre": "가족, 코미디, 범죄, 모험, 애니메이션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/1oG69MtmZGovhho0pPgRY9d1qrU.jpg",
+    "tmdb_vote_average": 7.631
+  },
+  {
+    "tmdb_id": 1307247,
+    "title": "오케이 마담 2",
+    "release_date": "2026-08-12",
+    "director": "이철하",
+    "genre": "액션, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/xDbrWXB9yb5aEdt4peVy8OWNP2Y.jpg",
+    "tmdb_vote_average": 0.0
+  },
+  {
+    "tmdb_id": 1337148,
+    "title": "아이샤는 날 수 없어",
+    "release_date": "2025-05-20",
+    "director": "Murad Mustafa",
+    "genre": "공포, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/HcfN1vNrz9FIQU64QQhslSLACo.jpg",
+    "tmdb_vote_average": 5.5
+  },
+  {
+    "tmdb_id": 1234821,
+    "title": "쥬라기 월드: 새로운 시작",
+    "release_date": "2025-06-23",
+    "director": "가랫 에드워즈",
+    "genre": "SF, 모험, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/ygr4hE8Qpagv8sxZbMw1mtYkcQE.jpg",
+    "tmdb_vote_average": 6.276
+  },
+  {
+    "tmdb_id": 24428,
+    "title": "어벤져스",
+    "release_date": "2012-04-25",
+    "director": "조스 웨던",
+    "genre": "SF, 액션, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/krgjV3rJtBcEpQehODKXNCt6uFL.jpg",
+    "tmdb_vote_average": 8.059
+  },
+  {
+    "tmdb_id": 1122573,
+    "title": "인 더 그레이",
+    "release_date": "2026-05-13",
+    "director": "가이 리치",
+    "genre": "액션, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+    "tmdb_vote_average": 7.554
+  },
+  {
+    "tmdb_id": 1659155,
+    "title": "믿는 자들",
+    "release_date": "2026-07-24",
+    "director": "Roger Gual",
+    "genre": "스릴러, 드라마, 미스터리",
+    "poster_url": "https://image.tmdb.org/t/p/w500/pUvs1iFFMDy3sNp5dNmkRak1oxD.jpg",
+    "tmdb_vote_average": 6.111
+  },
+  {
+    "tmdb_id": 1212763,
+    "title": "이블 데드 번",
+    "release_date": "2026-07-07",
+    "director": "Sébastien Vaniček",
+    "genre": "공포",
+    "poster_url": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+    "tmdb_vote_average": 6.8
+  },
+  {
+    "tmdb_id": 1301310,
+    "title": "Zombies of the Third Reich",
+    "release_date": "2025-06-10",
+    "director": "David Gregory",
+    "genre": "공포, 역사",
+    "poster_url": "https://image.tmdb.org/t/p/w500/hjrgOWoruk9ea0tXaN8l2gtmkeH.jpg",
+    "tmdb_vote_average": 4.1
+  },
+  {
+    "tmdb_id": 1368166,
+    "title": "하우스메이드",
+    "release_date": "2025-12-18",
+    "director": "폴 피그",
+    "genre": "미스터리, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/fUDX16A4fJXmAuUA5t0pnqzXS0b.jpg",
+    "tmdb_vote_average": 7.277
+  },
+  {
+    "tmdb_id": 1567187,
+    "title": "Memoria de una madre",
+    "release_date": "2025-10-21",
+    "director": "Mauro Iván Ojeda",
+    "genre": "공포",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vhfrAIIe9jHiuD9qjOhLwnEgLdb.jpg",
+    "tmdb_vote_average": 0.0
+  },
+  {
+    "tmdb_id": 671,
+    "title": "해리 포터와 마법사의 돌",
+    "release_date": "2001-11-16",
+    "director": "크리스 콜럼버스",
+    "genre": "모험, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8YaP48tVfngbURGldWk1I5odsBK.jpg",
+    "tmdb_vote_average": 7.901
+  },
+  {
+    "tmdb_id": 557,
+    "title": "스파이더맨",
+    "release_date": "2002-05-01",
+    "director": "샘 레이미",
+    "genre": "액션, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/4xOhtzXGt0if74dTmS4qtizFelX.jpg",
+    "tmdb_vote_average": 7.3
+  },
+  {
+    "tmdb_id": 299710,
+    "title": "À 14 ans",
+    "release_date": "2015-02-25",
+    "director": "Hélène Zimmer",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/lQ1G742IaxqU6AHB3j6VQ2SN4GY.jpg",
+    "tmdb_vote_average": 4.1
+  },
+  {
+    "tmdb_id": 5721,
+    "title": "Vixen!",
+    "release_date": "1968-10-15",
+    "director": "러스 마이어",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/9KMZWDA3xTrlgrScqdMisINQmsh.jpg",
+    "tmdb_vote_average": 5.529
+  },
+  {
+    "tmdb_id": 599335,
+    "title": "오케이 마담",
+    "release_date": "2020-08-12",
+    "director": "이철하",
+    "genre": "코미디, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8WeSpbhb4iXxx0Z32ayX9s6O8aw.jpg",
+    "tmdb_vote_average": 7.1
+  },
+  {
+    "tmdb_id": 11770,
+    "title": "소림축구",
+    "release_date": "2001-07-05",
+    "director": "주성치",
+    "genre": "액션, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/86r8Fe9WuleUh5BLn0VIQhbfemB.jpg",
+    "tmdb_vote_average": 7.191
+  },
+  {
+    "tmdb_id": 1656061,
+    "title": "Immortal Combat",
+    "release_date": "2026-04-24",
+    "director": "Monroe Robertson",
+    "genre": "액션, SF, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/mhRAgvQ04DTE4zQN3OSyc9Lonj3.jpg",
+    "tmdb_vote_average": 5.0
+  },
+  {
+    "tmdb_id": 872585,
+    "title": "오펜하이머",
+    "release_date": "2023-07-19",
+    "director": "크리스토퍼 놀란",
+    "genre": "드라마, 역사",
+    "poster_url": "https://image.tmdb.org/t/p/w500/jpD6z9fgNe7OqsHoDeAWQWoULde.jpg",
+    "tmdb_vote_average": 8.0
+  },
+  {
+    "tmdb_id": 1305672,
+    "title": "抓特务",
+    "release_date": "2026-06-19",
+    "director": "펑샤오강",
+    "genre": "역사, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/xuLUtumvstPx00t3PBsLI7GTENA.jpg",
+    "tmdb_vote_average": 6.2
+  },
+  {
+    "tmdb_id": 44980,
+    "title": "제로 우먼 2",
+    "release_date": "1995-09-05",
+    "director": "Daisuke Gotô",
+    "genre": "액션, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/z9XSICETB0XWQRyMWpN2s3bAUlz.jpg",
+    "tmdb_vote_average": 5.0
+  },
+  {
+    "tmdb_id": 617126,
+    "title": "판타스틱 4: 새로운 출발",
+    "release_date": "2025-07-23",
+    "director": "맷 샤크먼",
+    "genre": "SF, 모험, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vXvcMeUL6dGr9iBhNOMG3SPRHGA.jpg",
+    "tmdb_vote_average": 6.958
+  },
+  {
+    "tmdb_id": 329505,
+    "title": "Il peccato di Lola",
+    "release_date": "1984-05-04",
+    "director": "Bruno Gaburro",
+    "genre": "드라마, 코미디, 공포",
+    "poster_url": "https://image.tmdb.org/t/p/w500/iQt9Kydd8yn9xfBvYeKec56glyv.jpg",
+    "tmdb_vote_average": 7.049
+  },
+  {
+    "tmdb_id": 1723013,
+    "title": "Hibla 2",
+    "release_date": "2026-06-30",
+    "director": "Topel Lee",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/drDsk2ES8YvWFwgWaY9foKaE5xv.jpg",
+    "tmdb_vote_average": 3.0
+  },
+  {
+    "tmdb_id": 840464,
+    "title": "그린랜드 2: 마이그레이션",
+    "release_date": "2026-01-07",
+    "director": "Ric Roman Waugh",
+    "genre": "모험, 스릴러, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/63MYZJKDgg1jg1ISo9QUiE33lrT.jpg",
+    "tmdb_vote_average": 6.425
+  },
+  {
+    "tmdb_id": 1380291,
+    "title": "톰 클랜시의 잭 라이언: 고스트 워",
+    "release_date": "2026-05-20",
+    "director": "Andrew Bernstein",
+    "genre": "액션, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/3PufRWSVgSVwIr9M5YOmx4gu5Fu.jpg",
+    "tmdb_vote_average": 6.996
+  },
+  {
+    "tmdb_id": 533535,
+    "title": "데드풀과 울버린",
+    "release_date": "2024-07-24",
+    "director": "숀 레비",
+    "genre": "액션, 코미디, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/dsfAcQ5J7TPOpJgcX8R1lRBqiMK.jpg",
+    "tmdb_vote_average": 7.582
+  },
+  {
+    "tmdb_id": 315635,
+    "title": "스파이더맨: 홈커밍",
+    "release_date": "2017-07-05",
+    "director": "존 왓츠",
+    "genre": "액션, 모험, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/hjki9weYYVABvkpZbX5jBOmKXXv.jpg",
+    "tmdb_vote_average": 7.331
+  },
+  {
+    "tmdb_id": 1297842,
+    "title": "고트: 더 레전드",
+    "release_date": "2026-02-11",
+    "director": "Tyree Dillihay",
+    "genre": "애니메이션, 코미디, 가족",
+    "poster_url": "https://image.tmdb.org/t/p/w500/otP94vckeMXAgQxzhcRkZSeSmYv.jpg",
+    "tmdb_vote_average": 8.114
+  },
+  {
+    "tmdb_id": 424711,
+    "title": "Le calde notti di Poppea",
+    "release_date": "1969-01-01",
+    "director": "Guido Malatesta",
+    "genre": "코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/g1kB4f7aZBJnU2XZILZ8TsyDVVM.jpg",
+    "tmdb_vote_average": 4.7
+  },
+  {
+    "tmdb_id": 11012,
+    "title": "데미지",
+    "release_date": "1992-12-02",
+    "director": "루이 말",
+    "genre": "드라마, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/bc6ADs3tcdyQFrGrSsmujKSEPYo.jpg",
+    "tmdb_vote_average": 6.604
+  },
+  {
+    "tmdb_id": 1321491,
+    "title": "The Banished",
+    "release_date": "2025-07-18",
+    "director": "Joseph Sims-Dennett",
+    "genre": "공포",
+    "poster_url": "https://image.tmdb.org/t/p/w500/pBlTYknphiODxIQQrei030MSvdT.jpg",
+    "tmdb_vote_average": 4.8
+  },
+  {
+    "tmdb_id": 1241982,
+    "title": "모아나 2",
+    "release_date": "2024-11-21",
+    "director": "David G. Derrick Jr., Jason Hand, Dana Ledoux Miller",
+    "genre": "모험, 애니메이션, 코미디, 가족, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/hwmwTFtMbzxAWbIOp1RyyiOCyx0.jpg",
+    "tmdb_vote_average": 6.989
+  },
+  {
+    "tmdb_id": 89657,
+    "title": "Country Hooker",
+    "release_date": "1974-10-04",
+    "director": "Lew Guinn",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/v1idmJb9QWzhRllXlveKxYtsAHG.jpg",
+    "tmdb_vote_average": 4.2
+  },
+  {
+    "tmdb_id": 687259,
+    "title": "镜花风月三之螺女挑情",
+    "release_date": "1982-01-01",
+    "director": "辛仁",
+    "genre": "공포",
+    "poster_url": "https://image.tmdb.org/t/p/w500/m4ALMhsuqOOUkkABvgQWfrgoL8y.jpg",
+    "tmdb_vote_average": 6.2
+  },
+  {
+    "tmdb_id": 1305781,
+    "title": "표인: 풍기대막",
+    "release_date": "2026-02-17",
+    "director": "원화평",
+    "genre": "액션, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/ki0ilBYgbOZKUuE1NN53FYWK9zQ.jpg",
+    "tmdb_vote_average": 7.735
+  },
+  {
+    "tmdb_id": 862,
+    "title": "토이 스토리",
+    "release_date": "1995-11-22",
+    "director": "존 라세터",
+    "genre": "가족, 코미디, 애니메이션, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/iJbm78MxPjLutWUYixbeege8EVe.jpg",
+    "tmdb_vote_average": 7.984
+  },
+  {
+    "tmdb_id": 1084242,
+    "title": "주토피아 2",
+    "release_date": "2025-11-26",
+    "director": "재러드 부시, 바이런 하워드",
+    "genre": "애니메이션, 모험, 코미디, 미스터리, 가족",
+    "poster_url": "https://image.tmdb.org/t/p/w500/ib6v6qUXzez1x2qIOLN7C0yJNPQ.jpg",
+    "tmdb_vote_average": 7.684
+  },
+  {
+    "tmdb_id": 1645603,
+    "title": "Night of the Living Dead",
+    "release_date": "2026-07-03",
+    "director": "Christopher Ray",
+    "genre": "공포",
+    "poster_url": "https://image.tmdb.org/t/p/w500/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
+    "tmdb_vote_average": 5.172
+  },
+  {
+    "tmdb_id": 803796,
+    "title": "케이팝 데몬 헌터스",
+    "release_date": "2025-06-20",
+    "director": "매기 강, 크리스 아펠한스",
+    "genre": "판타지, 음악, 코미디, 애니메이션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/5fqcLmrgVDicMuGLOa9PKErFP72.jpg",
+    "tmdb_vote_average": 8.018
+  },
+  {
+    "tmdb_id": 1468683,
+    "title": "하트스토퍼 포에버",
+    "release_date": "2026-07-14",
+    "director": "워시 웨스트모얼랜드",
+    "genre": "로맨스, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/9kBz9Wt0snovIWJ0iuRGJHHr7RU.jpg",
+    "tmdb_vote_average": 7.231
+  },
+  {
+    "tmdb_id": 1325734,
+    "title": "더 드라마",
+    "release_date": "2026-04-01",
+    "director": "크리스토퍼 보글리",
+    "genre": "로맨스, 코미디, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/es6gCx4FDKohYjMlTpy7xneyldI.jpg",
+    "tmdb_vote_average": 6.929
+  },
+  {
+    "tmdb_id": 597,
+    "title": "타이타닉",
+    "release_date": "1997-12-18",
+    "director": "제임스 카메론",
+    "genre": "드라마, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/132KjhVrWUqKFVfMAKKNkherytA.jpg",
+    "tmdb_vote_average": 7.903
+  },
+  {
+    "tmdb_id": 1198994,
+    "title": "직장상사 길들이기",
+    "release_date": "2026-01-22",
+    "director": "샘 레이미",
+    "genre": "공포, 스릴러, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/kpOHAiCiIBa0yPtOqSp99NxhwUF.jpg",
+    "tmdb_vote_average": 7.051
+  },
+  {
+    "tmdb_id": 713704,
+    "title": "이블 데드 라이즈",
+    "release_date": "2023-04-12",
+    "director": "리 크로닌",
+    "genre": "공포, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/h67qcBzl7tnjd7zy3xQRRrQsG8H.jpg",
+    "tmdb_vote_average": 6.95
+  },
+  {
+    "tmdb_id": 1265609,
+    "title": "워 머신: 전쟁 기계",
+    "release_date": "2026-02-12",
+    "director": "패트릭 휴스",
+    "genre": "액션, SF, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/cfeIYPthWgq5XFZnx7cbpr7xFTp.jpg",
+    "tmdb_vote_average": 7.4
+  },
+  {
+    "tmdb_id": 1408170,
+    "title": "లెనిన్",
+    "release_date": "2026-07-10",
+    "director": "Murali Kishor Abburu",
+    "genre": "액션, 드라마, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vMhmsHb9GvlALNzblHYIiC6N3vA.jpg",
+    "tmdb_vote_average": 7.7
+  },
+  {
+    "tmdb_id": 14836,
+    "title": "코렐라인: 비밀의 문",
+    "release_date": "2009-02-05",
+    "director": "헨리 셀릭",
+    "genre": "애니메이션, 가족, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/iGp4wBc0ZBVFd2HPicyDgl6Pn1r.jpg",
+    "tmdb_vote_average": 7.924
+  },
+  {
+    "tmdb_id": 1930,
+    "title": "어메이징 스파이더맨",
+    "release_date": "2012-06-23",
+    "director": "마크 웹",
+    "genre": "액션, 모험, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/a1Kup5VnmxjAHnsT3Sz7RtrC9UU.jpg",
+    "tmdb_vote_average": 6.743
+  },
+  {
+    "tmdb_id": 822119,
+    "title": "캡틴 아메리카: 브레이브 뉴 월드",
+    "release_date": "2025-02-12",
+    "director": "줄리어스 오나",
+    "genre": "액션, 스릴러, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qj1uEI7zrCWbMppjFZmCXVlWlb1.jpg",
+    "tmdb_vote_average": 5.966
+  },
+  {
+    "tmdb_id": 1656220,
+    "title": "2만 3천 명의 목숨",
+    "release_date": "2026-07-02",
+    "director": "Markus Goller",
+    "genre": "드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/fl84ocsxe3Lib5BGUhO0lFjDbDK.jpg",
+    "tmdb_vote_average": 5.5
+  },
+  {
+    "tmdb_id": 1541560,
+    "title": "Stop! That! Train!",
+    "release_date": "2026-06-12",
+    "director": "Adam Shankman",
+    "genre": "액션, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg",
+    "tmdb_vote_average": 5.141
+  },
+  {
+    "tmdb_id": 1279493,
+    "title": "겟 아웃",
+    "release_date": "2026-06-18",
+    "director": "Derrick Borte",
+    "genre": "액션, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+    "tmdb_vote_average": 6.4
+  },
+  {
+    "tmdb_id": 1227241,
+    "title": "మా ఇంటి బంగారం",
+    "release_date": "2026-06-18",
+    "director": "B. V. Nandini Reddy",
+    "genre": "액션, 스릴러, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/OPwNfFyYCj76OjKZ3NZsJzWx7u.jpg",
+    "tmdb_vote_average": 7.0
+  },
+  {
+    "tmdb_id": 429617,
+    "title": "스파이더맨: 파 프롬 홈",
+    "release_date": "2019-06-28",
+    "director": "존 왓츠",
+    "genre": "액션, 모험, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/3YewJtji80oIroeXUavNRZkeXfQ.jpg",
+    "tmdb_vote_average": 7.395
+  },
+  {
+    "tmdb_id": 11,
+    "title": "스타워즈 에피소드 4: 새로운 희망",
+    "release_date": "1977-05-25",
+    "director": "조지 루카스",
+    "genre": "모험, 액션, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/7XFfURIFCJxN1mfBg0SAjk5yGzg.jpg",
+    "tmdb_vote_average": 8.206
+  },
+  {
+    "tmdb_id": 1061474,
+    "title": "슈퍼맨",
+    "release_date": "2025-07-09",
+    "director": "제임스 건",
+    "genre": "SF, 모험, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/kCXGCEsDqjzWJVDyHgBUg0AMetT.jpg",
+    "tmdb_vote_average": 7.328
+  },
+  {
+    "tmdb_id": 1010581,
+    "title": "나의 잘못",
+    "release_date": "2023-06-08",
+    "director": "도밍고 곤살레스",
+    "genre": "드라마, 로맨스, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/duT8Vks5FXwDkpxoR84xb2a6VB6.jpg",
+    "tmdb_vote_average": 7.73
+  },
+  {
+    "tmdb_id": 98,
+    "title": "글래디에이터",
+    "release_date": "2000-05-04",
+    "director": "리들리 스콧",
+    "genre": "액션, 드라마, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/4mMwki6S1MfdBfsKTvP8xqaRnWh.jpg",
+    "tmdb_vote_average": 8.23
+  },
+  {
+    "tmdb_id": 448772,
+    "title": "Un grande amore",
+    "release_date": "1995-01-01",
+    "director": "Ninì Grassia",
+    "genre": "드라마, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/jZolzsQj3zPINjmGuNuIA6iZPZG.jpg",
+    "tmdb_vote_average": 5.0
+  },
+  {
+    "tmdb_id": 385687,
+    "title": "분노의 질주: 라이드 오어 다이",
+    "release_date": "2023-05-17",
+    "director": "루이스 레테리어",
+    "genre": "액션, 범죄, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/cltj9nKLzl0HXtz2qdu55BoIgOn.jpg",
+    "tmdb_vote_average": 6.989
+  },
+  {
+    "tmdb_id": 76600,
+    "title": "아바타: 물의 길",
+    "release_date": "2022-12-14",
+    "director": "제임스 카메론",
+    "genre": "액션, 모험, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/u2aVXft5GLBQnjzWVNda7sdDpdu.jpg",
+    "tmdb_vote_average": 7.6
+  },
+  {
+    "tmdb_id": 361743,
+    "title": "탑건: 매버릭",
+    "release_date": "2022-05-21",
+    "director": "조셉 코신스키",
+    "genre": "액션, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/jeqXUwNilvNqNXqAHsdwm5pEfae.jpg",
+    "tmdb_vote_average": 8.158
+  },
+  {
+    "tmdb_id": 1233413,
+    "title": "씨너스: 죄인들",
+    "release_date": "2025-04-16",
+    "director": "라이언 쿠글러",
+    "genre": "공포, 액션, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qEipksU5SzHxbeZbE0cZQzEt6bD.jpg",
+    "tmdb_vote_average": 7.498
+  },
+  {
+    "tmdb_id": 1272837,
+    "title": "28년 후: 뼈의 사원",
+    "release_date": "2026-01-14",
+    "director": "니아 다코스타",
+    "genre": "공포, 스릴러, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/ubgOSHAEhv1ds8BNHodhCcI13oH.jpg",
+    "tmdb_vote_average": 7.115
+  },
+  {
+    "tmdb_id": 1242898,
+    "title": "프레데터: 죽음의 땅",
+    "release_date": "2025-11-05",
+    "director": "댄 트랙턴버그",
+    "genre": "액션, SF, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8lpCbwbYh9SSzCFsHDndZHKrcD4.jpg",
+    "tmdb_vote_average": 7.827
+  },
+  {
+    "tmdb_id": 10681,
+    "title": "월•E",
+    "release_date": "2008-06-26",
+    "director": "앤드류 스탠튼",
+    "genre": "애니메이션, 가족, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/skTzymk67FfQSfGvwp4JSAqje4Z.jpg",
+    "tmdb_vote_average": 8.118
+  },
+  {
+    "tmdb_id": 350,
+    "title": "악마는 프라다를 입는다",
+    "release_date": "2006-06-29",
+    "director": "데이비드 프랭클",
+    "genre": "드라마, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/lxjGbkRnY9d2j8cxIHxX57NNvRH.jpg",
+    "tmdb_vote_average": 7.441
+  },
+  {
+    "tmdb_id": 1641319,
+    "title": "스나이퍼: 국경 없는 전쟁",
+    "release_date": "2026-03-13",
+    "director": "Trevor Calverley",
+    "genre": "액션, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qG7OdjwK3kHQ3GPSSH7Djd8TkIP.jpg",
+    "tmdb_vote_average": 6.614
+  },
+  {
+    "tmdb_id": 694,
+    "title": "샤이닝",
+    "release_date": "1980-05-23",
+    "director": "스탠리 큐브릭",
+    "genre": "공포, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/aaItbIXZlC2C7Arg3PI0IglKi0.jpg",
+    "tmdb_vote_average": 8.202
+  },
+  {
+    "tmdb_id": 911430,
+    "title": "F1 더 무비",
+    "release_date": "2025-06-25",
+    "director": "조셉 코신스키",
+    "genre": "액션, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/bvVoP1t2gNvmE9ccSrqR1zcGHGM.jpg",
+    "tmdb_vote_average": 7.816
+  },
+  {
+    "tmdb_id": 438631,
+    "title": "듄",
+    "release_date": "2021-09-15",
+    "director": "드니 빌뇌브",
+    "genre": "SF, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/7zV8FTYofAORGm0Umgh1mNNCym8.jpg",
+    "tmdb_vote_average": 7.783
+  },
+  {
+    "tmdb_id": 1430077,
+    "title": "호컴",
+    "release_date": "2026-04-29",
+    "director": "다미안 맥카시",
+    "genre": "공포",
+    "poster_url": "https://image.tmdb.org/t/p/w500/o4iZdeHACk0wN4nycY9VubPnJjL.jpg",
+    "tmdb_vote_average": 7.0
+  },
+  {
+    "tmdb_id": 1202033,
+    "title": "에놀라 홈즈 3",
+    "release_date": "2026-06-30",
+    "director": "필립 배런티니",
+    "genre": "모험, 범죄, 미스터리",
+    "poster_url": "https://image.tmdb.org/t/p/w500/zBUJQKxmTGTXGGfsWTB93sk2DV1.jpg",
+    "tmdb_vote_average": 6.91
+  },
+  {
+    "tmdb_id": 393392,
+    "title": "모도리강",
+    "release_date": "1983-04-16",
+    "director": "神代辰巳",
+    "genre": "범죄, 드라마, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/4EHBFyeBWN2N1llrZqyddMK8rsN.jpg",
+    "tmdb_vote_average": 5.7
+  },
+  {
+    "tmdb_id": 1292748,
+    "title": "ステンレスナイト",
+    "release_date": "1995-12-22",
+    "director": "高橋ナオヒト",
+    "genre": "애니메이션, 로맨스, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/z736HcLDjpRMpD2zUAy8fenEN40.jpg",
+    "tmdb_vote_average": 0.0
+  },
+  {
+    "tmdb_id": 986056,
+    "title": "썬더볼츠*",
+    "release_date": "2025-04-30",
+    "director": "제이크 슈레이어",
+    "genre": "액션, SF, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/iTX4O9gb8Jn0F5N5WgYnbIopdnP.jpg",
+    "tmdb_vote_average": 7.296
+  },
+  {
+    "tmdb_id": 1171145,
+    "title": "크라임 101",
+    "release_date": "2026-02-11",
+    "director": "Bart Layton",
+    "genre": "범죄, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/77ggpowGO0ORQY9x33NeBIPajm1.jpg",
+    "tmdb_vote_average": 7.006
+  },
+  {
+    "tmdb_id": 718833,
+    "title": "Bokshi",
+    "release_date": "2025-01-31",
+    "director": "Bhargav Saikia",
+    "genre": "공포, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/9Loc2q3gO1HWolw0o6kLaMXrocS.jpg",
+    "tmdb_vote_average": 6.0
+  },
+  {
+    "tmdb_id": 271110,
+    "title": "캡틴 아메리카: 시빌 워",
+    "release_date": "2016-04-27",
+    "director": "조 루소, 안소니 루소",
+    "genre": "모험, 액션, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vaMRzME3Dt73robEjOtDw4SPJGA.jpg",
+    "tmdb_vote_average": 7.45
+  },
+  {
+    "tmdb_id": 950387,
+    "title": "A MINECRAFT MOVIE 마인크래프트 무비",
+    "release_date": "2025-03-31",
+    "director": "자레드 헤스",
+    "genre": "가족, 판타지, 코미디, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/k5aQ2TqKcQFwPoXHkpAGoKNVDLZ.jpg",
+    "tmdb_vote_average": 6.25
+  },
+  {
+    "tmdb_id": 950028,
+    "title": "인바이트",
+    "release_date": "2026-06-25",
+    "director": "올리비아 와일드",
+    "genre": "드라마, 코미디, 로맨스",
+    "poster_url": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+    "tmdb_vote_average": 7.789
+  },
+  {
+    "tmdb_id": 1288341,
+    "title": "세븐 스나이퍼스",
+    "release_date": "2026-04-30",
+    "director": "Sandra Sciberras",
+    "genre": "액션, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
+    "tmdb_vote_average": 5.92
+  },
+  {
+    "tmdb_id": 1726,
+    "title": "아이언맨",
+    "release_date": "2008-04-30",
+    "director": "존 파브로",
+    "genre": "액션, SF, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/ziReGUV3xURsWmcmsn2GOunPc0L.jpg",
+    "tmdb_vote_average": 7.663
+  },
+  {
+    "tmdb_id": 26466,
+    "title": "트라이앵글",
+    "release_date": "2009-10-16",
+    "director": "크리스토퍼 스미스",
+    "genre": "공포",
+    "poster_url": "https://image.tmdb.org/t/p/w500/wObkLgF4XiwuW43dVjBZ50dxZoM.jpg",
+    "tmdb_vote_average": 6.917
+  },
+  {
+    "tmdb_id": 1432631,
+    "title": "இதயம் முரளி",
+    "release_date": "2026-07-10",
+    "director": "Aakash Baskaran",
+    "genre": "로맨스, 코미디, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/iZzR7fYiJ3bGew8liRPxipPDEfj.jpg",
+    "tmdb_vote_average": 7.7
+  },
+  {
+    "tmdb_id": 12445,
+    "title": "해리 포터와 죽음의 성물 2",
+    "release_date": "2011-07-12",
+    "director": "데이빗 예이츠",
+    "genre": "모험, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/ehUeFvQeo8Vr2aDIKLsLbC8okcw.jpg",
+    "tmdb_vote_average": 8.081
+  },
+  {
+    "tmdb_id": 12444,
+    "title": "해리 포터와 죽음의 성물 1",
+    "release_date": "2010-11-17",
+    "director": "데이빗 예이츠",
+    "genre": "모험, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/lOXvz8HrgOkp7AXGQp1APKeZqag.jpg",
+    "tmdb_vote_average": 7.735
+  },
+  {
+    "tmdb_id": 102382,
+    "title": "어메이징 스파이더맨 2",
+    "release_date": "2014-04-16",
+    "director": "마크 웹",
+    "genre": "액션, 모험, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/eYaFLrKuEdzrGw6XG5ZTVciH28v.jpg",
+    "tmdb_vote_average": 6.548
+  },
+  {
+    "tmdb_id": 672,
+    "title": "해리 포터와 비밀의 방",
+    "release_date": "2002-11-13",
+    "director": "크리스 콜럼버스",
+    "genre": "모험, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/bo8FuQPWKLqbg3WgAXYISkwrbZ9.jpg",
+    "tmdb_vote_average": 7.707
+  },
+  {
+    "tmdb_id": 1087192,
+    "title": "드래곤 길들이기",
+    "release_date": "2025-06-06",
+    "director": "딘 데블로이스",
+    "genre": "판타지, 가족, 액션, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/frXkpt1dLKO3iDbmBsjQUKseLiS.jpg",
+    "tmdb_vote_average": 7.933
+  },
+  {
+    "tmdb_id": 1620682,
+    "title": "러브 인 슬로우 모션",
+    "release_date": "2026-07-23",
+    "director": "إيلي السمعان",
+    "genre": "로맨스, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/cj3uvHPlfEmdy8veYczXs7ibHah.jpg",
+    "tmdb_vote_average": 4.4
+  },
+  {
+    "tmdb_id": 1022789,
+    "title": "인사이드 아웃 2",
+    "release_date": "2024-06-11",
+    "director": "켈시 만",
+    "genre": "애니메이션, 모험, 코미디, 가족",
+    "poster_url": "https://image.tmdb.org/t/p/w500/x2BHx02jMbvpKjMvbf8XxJkYwHJ.jpg",
+    "tmdb_vote_average": 7.544
+  },
+  {
+    "tmdb_id": 99861,
+    "title": "어벤져스: 에이지 오브 울트론",
+    "release_date": "2015-04-22",
+    "director": "조스 웨던",
+    "genre": "액션, 모험, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/y8pY5MIzpPAnF5vYUNm1tw1AzL3.jpg",
+    "tmdb_vote_average": 7.275
+  },
+  {
+    "tmdb_id": 975511,
+    "title": "더 리턴",
+    "release_date": "2024-11-28",
+    "director": "Uberto Pasolini",
+    "genre": "역사, 드라마, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg",
+    "tmdb_vote_average": 6.519
+  },
+  {
+    "tmdb_id": 641284,
+    "title": "Excitation au soleil",
+    "release_date": "1978-03-22",
+    "director": "Michel Lemoine",
+    "genre": null,
+    "poster_url": "https://image.tmdb.org/t/p/w500/ysKUDDAwHGZLbvAYAkAJABSwmFB.jpg",
+    "tmdb_vote_average": 4.0
+  },
+  {
+    "tmdb_id": 76341,
+    "title": "매드맥스: 분노의 도로",
+    "release_date": "2015-05-13",
+    "director": "조지 밀러",
+    "genre": "액션, 모험, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/cadVm6gKYYukmPysHGCwrawUHHa.jpg",
+    "tmdb_vote_average": 7.635
+  },
+  {
+    "tmdb_id": 950396,
+    "title": "'더 캐니언' - The Gorge",
+    "release_date": "2025-02-13",
+    "director": "스콧 데릭슨",
+    "genre": "로맨스, SF, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/dBKMc0Bim0Z8amB7VihuCfhto2v.jpg",
+    "tmdb_vote_average": 7.677
+  },
+  {
+    "tmdb_id": 933260,
+    "title": "서브스턴스",
+    "release_date": "2024-09-07",
+    "director": "코랄리 파르자",
+    "genre": "공포, SF, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/oUkeyrXvGUEylOQtlYMv9esNRiu.jpg",
+    "tmdb_vote_average": 7.13
+  },
+  {
+    "tmdb_id": 674,
+    "title": "해리 포터와 불의 잔",
+    "release_date": "2005-11-16",
+    "director": "마이크 뉴웰",
+    "genre": "모험, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/uWPnKtu1eutmgBQ2hoWm0Xe8nfN.jpg",
+    "tmdb_vote_average": 7.803
+  },
+  {
+    "tmdb_id": 122917,
+    "title": "호빗: 다섯 군대 전투",
+    "release_date": "2014-12-10",
+    "director": "피터 잭슨",
+    "genre": "액션, 모험, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/tLNTaP5kcH2FDQNxGu4EkOCpMjr.jpg",
+    "tmdb_vote_average": 7.339
+  },
+  {
+    "tmdb_id": 1309083,
+    "title": "돌리",
+    "release_date": "2026-03-06",
+    "director": "Rod Blackhurst",
+    "genre": "공포",
+    "poster_url": "https://image.tmdb.org/t/p/w500/oJJquv1sg5XMTIyNHxEm0KLo696.jpg",
+    "tmdb_vote_average": 5.911
+  },
+  {
+    "tmdb_id": 1725116,
+    "title": "심슬리",
+    "release_date": "2026-07-03",
+    "director": "Debbie Bruce Mahan",
+    "genre": "애니메이션, 코미디, 범죄",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+    "tmdb_vote_average": 7.875
+  },
+  {
+    "tmdb_id": 1613798,
+    "title": "복수",
+    "release_date": "2026-02-26",
+    "director": "Rodrigo Valdes",
+    "genre": "액션, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/26milocWotfItrjwnadk4gyHwyi.jpg",
+    "tmdb_vote_average": 7.557
+  },
+  {
+    "tmdb_id": 1363387,
+    "title": "사카린",
+    "release_date": "2026-05-22",
+    "director": "Natalie Erika James",
+    "genre": "공포",
+    "poster_url": "https://image.tmdb.org/t/p/w500/r4OYbktuUWYGROL7sMKfMvzGZcV.jpg",
+    "tmdb_vote_average": 6.6
+  },
+  {
+    "tmdb_id": 414906,
+    "title": "더 배트맨",
+    "release_date": "2022-03-01",
+    "director": "맷 리브스",
+    "genre": "범죄, 미스터리, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/jicHGaOX5pHs7RKjfexMxvLkwjf.jpg",
+    "tmdb_vote_average": 7.7
+  },
+  {
+    "tmdb_id": 1318413,
+    "title": "프레셔",
+    "release_date": "2026-05-25",
+    "director": "Anthony Maras",
+    "genre": "스릴러, 역사, 전쟁",
+    "poster_url": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg",
+    "tmdb_vote_average": 7.679
+  },
+  {
+    "tmdb_id": 453395,
+    "title": "닥터 스트레인지: 대혼돈의 멀티버스",
+    "release_date": "2022-05-04",
+    "director": "샘 레이미",
+    "genre": "판타지, 액션, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vL5ktZauR0fZMDOHKjakb1idhuU.jpg",
+    "tmdb_vote_average": 7.231
+  },
+  {
+    "tmdb_id": 1451078,
+    "title": "라카사",
+    "release_date": "2026-04-03",
+    "director": "Manasa Sharma",
+    "genre": "판타지, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vJLH4bGnKfCCbJl0rGf2oEnKEbL.jpg",
+    "tmdb_vote_average": 6.533
+  },
+  {
+    "tmdb_id": 1397385,
+    "title": "리틀 브라더",
+    "release_date": "2026-06-18",
+    "director": "Matt Spicer",
+    "genre": "코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6XWgzqVFdK3DcafXgAbataUddfS.jpg",
+    "tmdb_vote_average": 6.448
+  },
+  {
+    "tmdb_id": 673,
+    "title": "해리 포터와 아즈카반의 죄수",
+    "release_date": "2004-05-31",
+    "director": "알폰소 쿠아론",
+    "genre": "모험, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/anwNl1xbzXoj5Ax1nVw3WoDzHlw.jpg",
+    "tmdb_vote_average": 8.01
+  },
+  {
+    "tmdb_id": 354912,
+    "title": "코코",
+    "release_date": "2017-10-27",
+    "director": "리 언크리치",
+    "genre": "가족, 애니메이션, 음악, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/pQu93NuwR90AaCULzglVD5Ge4Ml.jpg",
+    "tmdb_vote_average": 8.198
+  },
+  {
+    "tmdb_id": 1156594,
+    "title": "우리의 잘못",
+    "release_date": "2025-10-15",
+    "director": "도밍고 곤살레스",
+    "genre": "로맨스, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/yCbT1nKemh1AuQgdbns5Cf1RmRj.jpg",
+    "tmdb_vote_average": 7.391
+  },
+  {
+    "tmdb_id": 49026,
+    "title": "다크 나이트 라이즈",
+    "release_date": "2012-07-17",
+    "director": "크리스토퍼 놀란",
+    "genre": "액션, 범죄, 드라마, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/eq5P71YHwwaacEYKaQ72Wxy6BlT.jpg",
+    "tmdb_vote_average": 7.797
+  },
+  {
+    "tmdb_id": 1442396,
+    "title": "నాగబంధం",
+    "release_date": "2026-07-02",
+    "director": "Abhishek Nama",
+    "genre": "드라마, 판타지, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
+    "tmdb_vote_average": 2.7
+  },
+  {
+    "tmdb_id": 1711175,
+    "title": "Summerween",
+    "release_date": "2026-06-26",
+    "director": "Ryan Ebert",
+    "genre": "공포, 스릴러",
+    "poster_url": "https://image.tmdb.org/t/p/w500/oCsyamu5ixofd3yyK9gD7pGfCiF.jpg",
+    "tmdb_vote_average": 5.7
+  },
+  {
+    "tmdb_id": 1054867,
+    "title": "원 배틀 애프터 어나더",
+    "release_date": "2025-09-23",
+    "director": "폴 토마스 앤더슨",
+    "genre": "스릴러, 범죄, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/bCg9iDSXPjVTUs1RyYH8AhmJ11d.jpg",
+    "tmdb_vote_average": 7.343
+  },
+  {
+    "tmdb_id": 1029529,
+    "title": "無力の王",
+    "release_date": "1981-08-29",
+    "director": "Kenji Ishiguro",
+    "genre": null,
+    "poster_url": "https://image.tmdb.org/t/p/w500/1ygQF47pqJzqBkULLh87T6k0Mv9.jpg",
+    "tmdb_vote_average": 6.5
+  },
+  {
+    "tmdb_id": 2062,
+    "title": "라따뚜이",
+    "release_date": "2007-06-28",
+    "director": "브래드 버드",
+    "genre": "애니메이션, 코미디, 가족, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/zFah4LNeWw68y7RRGi20CQlGByY.jpg",
+    "tmdb_vote_average": 7.846
+  },
+  {
+    "tmdb_id": 693134,
+    "title": "듄: 파트 2",
+    "release_date": "2024-02-27",
+    "director": "드니 빌뇌브",
+    "genre": "SF, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8AsDR2o5AC3V8Jmj6JH6cpta7dz.jpg",
+    "tmdb_vote_average": 8.13
+  },
+  {
+    "tmdb_id": 575265,
+    "title": "미션 임파서블: 파이널 레코닝",
+    "release_date": "2025-05-17",
+    "director": "크리스토퍼 맥쿼리",
+    "genre": "액션, 스릴러, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/c5pDU8SW0ZbmO5jHfw7fX6keyyR.jpg",
+    "tmdb_vote_average": 7.2
+  },
+  {
+    "tmdb_id": 432279,
+    "title": "멜랑콜리 베이비",
+    "release_date": "1979-08-29",
+    "director": "Clarisse Gabus",
+    "genre": "로맨스, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/uArNywm0DsF9pts3v8QXS9iZ5Yy.jpg",
+    "tmdb_vote_average": 6.333
+  },
+  {
+    "tmdb_id": 585,
+    "title": "몬스터 주식회사",
+    "release_date": "2001-11-01",
+    "director": "피트 닥터",
+    "genre": "애니메이션, 코미디, 가족, 판타지",
+    "poster_url": "https://image.tmdb.org/t/p/w500/fnDLrtEoIrxTCWUvuurMzOzQGpQ.jpg",
+    "tmdb_vote_average": 7.9
+  },
+  {
+    "tmdb_id": 1440050,
+    "title": "The Breadwinner",
+    "release_date": "2026-05-29",
+    "director": "Eric Appel",
+    "genre": "코미디, 가족",
+    "poster_url": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
+    "tmdb_vote_average": 7.47
+  },
+  {
+    "tmdb_id": 68726,
+    "title": "퍼시픽 림",
+    "release_date": "2013-07-11",
+    "director": "기예르모 델 토로",
+    "genre": "액션, SF, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/BWJhHHqeW5oCRvqLXF5twAFAga.jpg",
+    "tmdb_vote_average": 6.939
+  },
+  {
+    "tmdb_id": 301528,
+    "title": "토이 스토리 4",
+    "release_date": "2019-06-19",
+    "director": "조시 쿨리",
+    "genre": "가족, 코미디, 애니메이션, 모험",
+    "poster_url": "https://image.tmdb.org/t/p/w500/9P8IX4UyH3QFLL4MV6GZyuOB7Ue.jpg",
+    "tmdb_vote_average": 7.5
+  },
+  {
+    "tmdb_id": 1057265,
+    "title": "పెద్ది",
+    "release_date": "2026-06-03",
+    "director": "Buchi Babu Sana",
+    "genre": "액션, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+    "tmdb_vote_average": 5.869
+  },
+  {
+    "tmdb_id": 1141970,
+    "title": "ครัวสาว",
+    "release_date": "2026-07-02",
+    "director": "เป็นเอก รัตนเรือง",
+    "genre": "스릴러, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/1CdRrEcwaFEXMNyhlwRkMSaSpG3.jpg",
+    "tmdb_vote_average": 3.8
+  },
+  {
+    "tmdb_id": 1124,
+    "title": "프레스티지",
+    "release_date": "2006-10-19",
+    "director": "크리스토퍼 놀란",
+    "genre": "드라마, 미스터리, SF",
+    "poster_url": "https://image.tmdb.org/t/p/w500/pN3H35IXZb9Aiew4BWLiloWQe7q.jpg",
+    "tmdb_vote_average": 8.2
+  },
+  {
+    "tmdb_id": 106646,
+    "title": "더 울프 오브 월 스트리트",
+    "release_date": "2013-12-25",
+    "director": "마틴 스콜세지",
+    "genre": "범죄, 드라마, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/rdBYtoxLvd8J9PsVYVGd7FGzQux.jpg",
+    "tmdb_vote_average": 8.028
+  },
+  {
+    "tmdb_id": 863,
+    "title": "토이 스토리 2",
+    "release_date": "1999-10-30",
+    "director": "존 라세터",
+    "genre": "애니메이션, 코미디, 가족",
+    "poster_url": "https://image.tmdb.org/t/p/w500/gXUNsdIIn6NiEBvh8Mq6gjgVPm0.jpg",
+    "tmdb_vote_average": 7.618
+  },
+  {
+    "tmdb_id": 177572,
+    "title": "빅 히어로",
+    "release_date": "2014-10-24",
+    "director": "Don Hall, Chris Williams",
+    "genre": "모험, 가족, 애니메이션, 액션, 코미디",
+    "poster_url": "https://image.tmdb.org/t/p/w500/gLabmTVZpNOGa8LEiMvTi9hJPDe.jpg",
+    "tmdb_vote_average": 7.726
+  },
+  {
+    "tmdb_id": 22,
+    "title": "캐리비안의 해적: 블랙펄의 저주",
+    "release_date": "2003-07-09",
+    "director": "고어 버빈스키",
+    "genre": "모험, 판타지, 액션",
+    "poster_url": "https://image.tmdb.org/t/p/w500/3ovejwQO4fKOWx4VgGBJeT8CKCn.jpg",
+    "tmdb_vote_average": 7.831
+  },
+  {
+    "tmdb_id": 11324,
+    "title": "셔터 아일랜드",
+    "release_date": "2010-02-14",
+    "director": "마틴 스콜세지",
+    "genre": "드라마, 스릴러, 미스터리",
+    "poster_url": "https://image.tmdb.org/t/p/w500/aywZdSOXtwcqqLTl271EUJemi2.jpg",
+    "tmdb_vote_average": 8.198
+  },
+  {
+    "tmdb_id": 335984,
+    "title": "블레이드 러너 2049",
+    "release_date": "2017-10-04",
+    "director": "드니 빌뇌브",
+    "genre": "SF, 드라마",
+    "poster_url": "https://image.tmdb.org/t/p/w500/fJZmCJpLeBFKktLFEIKPEhllWlU.jpg",
+    "tmdb_vote_average": 7.598
+  }
+]
