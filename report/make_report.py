@@ -42,6 +42,16 @@ TITLE = "미션 18 영화 리뷰 감성 분석 서비스"
 SUBTITLE = "Streamlit 과 FastAPI 를 이용한 웹 서비스 구현"
 AUTHOR = "5팀 황지우"
 
+FRONTEND_URL = "https://mission18-movie-review.streamlit.app"
+BACKEND_URL = "https://movie-review-api-256118486084.asia-northeast3.run.app"
+API_DOCS_URL = f"{BACKEND_URL}/docs"
+SOURCE_REPOSITORY_URL = "https://github.com/ZerofZero/mission18-movie-review"
+DOCKER_HUB_URL = "https://hub.docker.com/r/wldn2386/movie-review-api"
+ARTIFACT_REGISTRY_IMAGE = (
+    "asia-northeast3-docker.pkg.dev/mission18-movie-review/"
+    "movie-review/movie-review-api:latest"
+)
+
 BLUE = colors.HexColor("#2E86AB")
 ORANGE = colors.HexColor("#F4A261")
 RED = colors.HexColor("#E05C4B")
@@ -105,6 +115,16 @@ STYLES = {
         alignment=TA_CENTER,
         textColor=GRAY,
         spaceAfter=4,
+    ),
+    "cover_link": ParagraphStyle(
+        "cover_link",
+        fontName=BODY_FONT,
+        fontSize=8.5,
+        leading=13,
+        alignment=TA_CENTER,
+        textColor=BLUE,
+        spaceAfter=3,
+        splitLongWords=True,
     ),
     "toc_title": ParagraphStyle(
         "toc_title",
@@ -487,6 +507,9 @@ def section_overview() -> list:
                 ["백엔드", "FastAPI", "REST API 제공과 자동 문서 생성"],
                 ["데이터베이스", "SQLite, SQLAlchemy", "영화와 리뷰 저장, ORM 을 통한 추상화"],
                 ["모델 서빙", "ONNX Runtime", "PyTorch 없이 감성 분석 모델 추론"],
+                ["배포", "Docker", "백엔드 컨테이너화"],
+                ["배포", "Google Cloud Run", "백엔드 호스팅"],
+                ["배포", "Streamlit Community Cloud", "프론트엔드 호스팅"],
                 ["토크나이저", "transformers", "한국어 문장 토큰화"],
                 ["외부 API", "TMDB", "영화 정보와 포스터 이미지 조회"],
                 ["보고서", "ReportLab", "PDF 문서 생성"],
@@ -510,8 +533,8 @@ def section_overview() -> list:
                 [
                     "프론트엔드",
                     "Streamlit Cloud 배포",
-                    "미착수",
-                    "외부 백엔드 배포 조건 확인 후 진행",
+                    "완료",
+                    "GitHub 연동, Secrets 로 백엔드 주소 주입",
                 ],
                 ["백엔드", "영화 등록", "완료", "중복 등록 시 409 응답"],
                 ["백엔드", "전체 및 특정 영화 조회", "완료", "검색, 장르 필터, 정렬, 분할 조회 지원"],
@@ -520,6 +543,12 @@ def section_overview() -> list:
                 ["백엔드", "평점 조회", "완료", "심화 항목, 감성 점수 평균"],
                 ["백엔드", "리뷰 감성 분석", "완료", "심화 항목, 두 모델 결합"],
                 ["백엔드", "모델 경량화", "완료", "심화 항목, ONNX 변환과 동적 양자화"],
+                [
+                    "백엔드",
+                    "외부 접근 가능한 배포",
+                    "완료",
+                    "Google Cloud Run, 컨테이너 이미지 기반으로 자발적 수행",
+                ],
             ],
             widths=[1.2, 2.6, 1.0, 2.8],
             align_center=[2],
@@ -655,6 +684,116 @@ def section_architecture() -> list:
             "  → 201 응답으로 결과 반환\n"
             "  → 프론트엔드가 확률 분포와 점수를 화면에 표시"
         )
+    )
+
+    story.append(CondPageBreak(75 * mm))
+    story.append(heading("2.6 배포 구성", 2))
+    story.append(
+        body(
+            "프론트엔드와 백엔드를 서로 다른 환경에 배포했습니다. "
+            "Streamlit Community Cloud 는 Streamlit 앱만 실행하므로 FastAPI 를 함께 올릴 수 없고, "
+            "백엔드는 감성 분석 모델을 적재해야 하므로 컨테이너 환경이 필요했습니다. "
+            "프론트엔드는 GitHub 저장소의 소스를 직접 실행하고, 백엔드는 컨테이너 이미지를 통해 "
+            "Google Cloud Run 에 배포했습니다."
+        )
+    )
+
+    story.append(Paragraph("서비스 주소", STYLES["label"]))
+    story.append(
+        make_table(
+            ["구분", "주소"],
+            [
+                ["프론트엔드", FRONTEND_URL],
+                ["백엔드 API", BACKEND_URL],
+                ["API 문서", API_DOCS_URL],
+                ["소스 저장소", SOURCE_REPOSITORY_URL],
+                ["컨테이너 이미지", DOCKER_HUB_URL],
+            ],
+            widths=[1.5, 6.1],
+        )
+    )
+
+    story.append(Paragraph("백엔드 배포 구성", STYLES["label"]))
+    story.append(
+        make_table(
+            ["항목", "값"],
+            [
+                ["호스팅", "Google Cloud Run"],
+                ["리전", "asia-northeast3, 서울"],
+                ["서비스명", "movie-review-api"],
+                ["자원", "메모리 2 GiB, CPU 1"],
+                ["인스턴스", "최대 1개"],
+                ["요청 제한 시간", "300초"],
+                ["접근", "미인증 요청 허용"],
+                ["컨테이너", "python:3.12-slim 기반, 압축 491 MB, 디스크 1.38 GB"],
+            ],
+            widths=[1.8, 5.8],
+        )
+    )
+    story.append(
+        body(
+            "컨테이너 이미지는 Docker Hub 와 Artifact Registry 에 저장했습니다. "
+            f"Cloud Run 배포에는 {ARTIFACT_REGISTRY_IMAGE} 이미지를 사용했습니다. "
+            "외부 레지스트리 의존성을 줄이고 배포 가용성을 높이기 위한 선택입니다."
+        )
+    )
+
+    story.append(
+        KeepTogether(
+            [
+                Paragraph("프론트엔드 배포 구성", STYLES["label"]),
+                make_table(
+                    ["항목", "값"],
+                    [
+                        ["호스팅", "Streamlit Community Cloud"],
+                        ["저장소", "ZerofZero/mission18-movie-review"],
+                        ["브랜치", "main"],
+                        ["진입점", "frontend/app.py"],
+                        ["Python", "3.12"],
+                        ["의존성", "frontend/requirements.txt"],
+                    ],
+                    widths=[1.8, 5.8],
+                ),
+            ]
+        )
+    )
+    story.append(
+        body(
+            "백엔드 주소는 저장소에 기록하지 않고 Streamlit Secrets 의 BACKEND_URL 로 주입했습니다. "
+            "컨테이너 이미지에도 비밀 정보를 포함하지 않았으며, .dockerignore 로 .env 를 제외한 뒤 "
+            "Cloud Run 환경 변수에는 TMDB_API_KEY 와 ADMIN_KEY 만 등록했습니다. "
+            "모델 경로와 파일명은 비밀 정보가 아니므로 config.py 의 기본값에 실제 값을 지정했습니다."
+        )
+    )
+
+    story.append(Paragraph("운영상 특성", STYLES["label"]))
+    story.extend(
+        bullets(
+            [
+                "일정 시간 요청이 없으면 인스턴스가 종료됩니다. 다음 요청에서 컨테이너와 모델을 "
+                "다시 적재하므로 첫 접속에 약 20초가 걸릴 수 있으며, 프론트엔드 요청 제한 시간을 "
+                "30초로 설정했습니다.",
+                "Cloud Run 의 로컬 파일 시스템은 영속적이지 않습니다. 인스턴스가 새로 시작될 때 "
+                "영화 300편과 리뷰 60건을 다시 삽입하므로 기본 화면은 유지되지만, 사용자가 추가한 "
+                "자료는 인스턴스 종료 후 사라질 수 있습니다.",
+                "SQLite 파일이 인스턴스마다 분리되는 것을 방지하기 위해 최대 인스턴스를 1개로 "
+                "제한했습니다.",
+                "주 모델이 352 MB 로 GitHub 의 단일 파일 상한을 넘기므로 모델 가중치는 저장소에서 "
+                "제외했습니다. 모델은 컨테이너 이미지에 포함하고 저장소 README 에 배치 방법을 "
+                "안내했습니다.",
+            ]
+        )
+    )
+
+    story.append(
+        body(
+            "배포된 서비스의 화면입니다. 프론트엔드는 Streamlit Community Cloud 에서 실행되며, "
+            "사이드바에 표시된 영화와 리뷰 개수는 Cloud Run 에 배포된 백엔드를 호출해 받아온 "
+            "값입니다. 두 환경이 실제로 연동되어 동작하고 있음을 확인할 수 있습니다."
+        )
+    )
+    story.extend(
+        figure("deploy_frontend.png", "배포된 서비스의 영화 목록 화면", 120 * mm)
     )
 
     return story
@@ -1216,6 +1355,14 @@ def section_model() -> list:
             "위 표의 용량은 1 MB 를 2의 20제곱 바이트로 계산한 값입니다."
         )
     )
+    story.append(
+        body(
+            "실제 배포에 사용한 컨테이너 이미지는 압축 상태로 491 MB 입니다. "
+            "python:3.12-slim 기반 이미지와 서비스 의존성에 양자화 모델 366.09 MB 가 더해진 결과입니다. "
+            "PyTorch 를 포함했다면 이미지가 두 배 이상 커졌을 가능성이 있으므로, ONNX Runtime 만으로 "
+            "추론하도록 구성한 판단이 배포 단계에서도 유효했습니다."
+        )
+    )
 
     return story
 
@@ -1241,7 +1388,7 @@ def section_demo() -> list:
         body(
             "포스터를 격자로 표시하고 제목 검색, 장르 필터, 정렬을 제공합니다. "
             "감성 평점순으로 정렬하면 리뷰가 등록된 영화가 위쪽에 배치됩니다. "
-            "목록은 20편 단위로 나누어 불러오며 더 보기를 눌러 추가로 확인할 수 있습니다(그림 12)."
+            "목록은 20편 단위로 나누어 불러오며 더 보기를 눌러 추가로 확인할 수 있습니다(그림 13)."
         )
     )
     story.extend(figure("screen_movies.png", "영화 목록 화면, 감성 평점순 정렬", 120 * mm))
@@ -1251,7 +1398,7 @@ def section_demo() -> list:
     story.append(
         body(
             "포스터를 누르면 상세 정보와 해당 영화의 리뷰가 표시됩니다. "
-            "TMDB 평점과 감성 분석 평점을 나란히 배치하고 감성별 리뷰 분포를 함께 제공합니다(그림 13)."
+            "TMDB 평점과 감성 분석 평점을 나란히 배치하고 감성별 리뷰 분포를 함께 제공합니다(그림 14)."
         )
     )
     story.extend(figure("screen_detail.png", "인터스텔라 상세 정보와 리뷰 목록", 150 * mm))
@@ -1262,7 +1409,7 @@ def section_demo() -> list:
         body(
             "등록 기능은 대표로 한 편을 시연했습니다. 목록에 표시된 300편은 서비스 기동 시 "
             "동일한 저장 경로를 통해 삽입된 시드 자료입니다. "
-            "등록에 앞서 대상 영화가 목록에 없다는 것을 먼저 확인했습니다(그림 14)."
+            "등록에 앞서 대상 영화가 목록에 없다는 것을 먼저 확인했습니다(그림 15)."
         )
     )
     story.extend(figure("screen_search_empty.png", "등록 전 검색 결과가 없는 상태", 95 * mm))
@@ -1293,7 +1440,7 @@ def section_demo() -> list:
     story.append(
         body(
             "영화를 선택하고 닉네임과 리뷰 내용을 입력합니다. 감성 분석 모델이 한국어 전용이므로 "
-            "한국어로 작성된 리뷰만 등록할 수 있습니다(그림 19)."
+            "한국어로 작성된 리뷰만 등록할 수 있습니다(그림 20)."
         )
     )
     story.extend(figure("screen_review_form.png", "리뷰 작성 화면", 110 * mm))
@@ -1333,7 +1480,7 @@ def section_demo() -> list:
     story.append(
         body(
             "전체 리뷰를 최신순으로 표시합니다. 영화 번호, 영화 제목, 등록일, 리뷰 내용, "
-            "감성 판정, 점수를 함께 제공합니다(그림 23)."
+            "감성 판정, 점수를 함께 제공합니다(그림 24)."
         )
     )
     story.extend(figure("screen_recent.png", "최근 리뷰 화면", 130 * mm))
@@ -1461,6 +1608,41 @@ def section_troubleshooting() -> list:
         )
     )
 
+    story.append(heading("7.7 컨테이너에서 모델을 찾지 못한 문제", 2))
+    story.append(
+        body(
+            "비밀 정보가 이미지에 포함되지 않도록 .dockerignore 로 .env 를 제외했는데, "
+            "그 결과 모델 경로와 파일명도 전달되지 않아 설정 기본값이 적용되었습니다. "
+            "기본값이 예시용 이름이어서 컨테이너가 실제 모델 파일을 찾지 못했고 감성 분석 기능이 "
+            "동작하지 않았습니다."
+        )
+    )
+    story.append(
+        body(
+            "비밀 정보와 일반 설정을 한 파일에 함께 둔 것이 원인이었습니다. 모델 경로와 파일명은 "
+            "공개되어도 무방하므로 config.py 의 기본값을 실제 파일명으로 바꾸어 해결했습니다. "
+            "배포 시 별도로 주입할 값은 TMDB_API_KEY 와 ADMIN_KEY 두 개로 줄어 관리도 단순해졌습니다."
+        )
+    )
+
+    story.append(heading("7.8 새 프로젝트의 결제 계정 미연결", 2))
+    story.append(
+        body(
+            "Google Cloud 에서 새 프로젝트를 만든 뒤 필요한 서비스를 활성화하려 했으나 결제 계정을 "
+            "찾을 수 없다는 오류가 발생했습니다. 프로젝트 생성과 결제 계정 연결은 별도 절차이므로, "
+            "콘솔에서 기존 결제 계정을 새 프로젝트에 연결한 뒤 정상적으로 진행했습니다."
+        )
+    )
+
+    story.append(heading("7.9 컨테이너 포트 충돌", 2))
+    story.append(
+        body(
+            "이미지를 다시 빌드해 로컬에서 실행할 때 포트가 이미 할당되어 있다는 오류가 발생했습니다. "
+            "이전 컨테이너가 완전히 종료되지 않은 상태가 원인이었습니다. 실행 중인 컨테이너를 확인해 "
+            "중지하고 제거한 뒤 새 컨테이너를 실행해 해결했습니다."
+        )
+    )
+
     return story
 
 
@@ -1500,20 +1682,21 @@ def section_future() -> list:
         )
     )
 
-    story.append(heading("8.3 배포", 2))
+    story.append(heading("8.3 데이터 영속성 확보", 2))
     story.append(
         body(
-            "프론트엔드는 Streamlit Cloud 에 배포할 수 있으나, 백엔드가 외부에서 접근 가능해야 "
-            "실제로 동작합니다. 백엔드 주소를 환경 변수로 분리해 두었으므로 배포 시 코드 수정은 "
-            "필요하지 않습니다."
+            "현재 구성에서는 Cloud Run 인스턴스가 종료되면 로컬 SQLite 자료가 사라집니다. "
+            "기동 시 시드를 다시 삽입하도록 구성해 평가자가 항상 영화 300편과 리뷰 60건이 있는 "
+            "동일한 화면을 확인할 수 있게 했지만, 사용자가 추가로 등록한 영화와 리뷰는 유지되지 않습니다."
         )
     )
     story.append(
         body(
-            "다만 무료 호스팅 환경은 대체로 파일 시스템이 유지되지 않아 SQLite 자료가 초기화됩니다. "
-            "기동 시 자료가 없으면 시드를 자동으로 삽입하도록 구성해, 컨테이너가 다시 시작되더라도 "
-            "동일한 화면을 제공할 수 있게 했습니다. 영속성이 필요한 경우 SQLAlchemy 를 "
-            "사용하고 있으므로 연결 문자열만 교체하면 다른 데이터베이스로 전환할 수 있습니다."
+            "SQLAlchemy 를 사용하고 있으므로 DATABASE_URL 연결 문자열과 데이터베이스별 설정을 바꾸면 "
+            "외부 관리형 데이터베이스로 전환할 수 있습니다. 향후 PostgreSQL 등의 관리형 데이터베이스를 "
+            "연결해 사용자 자료를 보존하는 것이 필요합니다. 또한 최소 인스턴스를 1개로 설정하면 약 20초의 "
+            "콜드 스타트를 줄일 수 있으나 상시 과금이 발생하므로, 현재 평가용 서비스에서는 비용을 줄이는 "
+            "대신 첫 접속 지연을 감수했습니다."
         )
     )
 
@@ -1539,12 +1722,15 @@ def section_future() -> list:
 
 def cover() -> list:
     return [
-        Spacer(1, 60 * mm),
+        Spacer(1, 52 * mm),
         Paragraph(TITLE, STYLES["title"]),
         Paragraph(SUBTITLE, STYLES["subtitle"]),
-        Spacer(1, 30 * mm),
+        Spacer(1, 22 * mm),
         Paragraph(AUTHOR, STYLES["subtitle"]),
         Paragraph(date.today().strftime("%Y년 %m월 %d일"), STYLES["subtitle"]),
+        Spacer(1, 14 * mm),
+        Paragraph(f"서비스 주소&nbsp;&nbsp;{FRONTEND_URL}", STYLES["cover_link"]),
+        Paragraph(f"소스 저장소&nbsp;&nbsp;{SOURCE_REPOSITORY_URL}", STYLES["cover_link"]),
         PageBreak(),
     ]
 
