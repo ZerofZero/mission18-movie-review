@@ -84,7 +84,7 @@ AI 부트캠프 스프린트 미션 18 과제로 제작했습니다.
 │   ├── data/           시드 자료
 │   └── Dockerfile
 ├── frontend/           Streamlit 프론트엔드
-└── report/             보고서와 도식 생성 도구
+└── report/             보고서
 ```
 
 ## 모델 파일에 관하여
